@@ -1,0 +1,7 @@
+__pycache__/
+.env
+*.pdf
+*.db
+*.sqlite
+.chromadb/
+.ipynb_checkpoints/
