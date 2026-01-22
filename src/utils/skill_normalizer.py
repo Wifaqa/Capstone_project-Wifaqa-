@@ -55,10 +55,6 @@ def normalize_skill(skills: List[str]) -> List[str]:
                     normalized.append(standard_skill)
                     replaced = True
                     break
-            # if any(variant in skill_lower for variant in variants):
-            #     normalized.append(standard_skill)
-            #     replaced = True
-            #     break
         if not replaced:
             normalized.append(skill_lower)
     return list(normalized)
