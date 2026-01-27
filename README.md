@@ -17,3 +17,7 @@
 - LangChain
 - ChromaDB
 - Streamlit
+
+## To run this code:
+
+- uv run python run_pipline.py
