@@ -1,0 +1,28 @@
+{
+  "name": "Saleh Al-Anazi",
+  "contact_info": {
+    "email": "sypor@outlook.sa",
+    "phone": "+966590300812",
+    "linkedin": "linkedin.com/in/saleh-al-anazi-118a38296"
+  },
+  "summary": "Senior Data Scientist with a passion for innovating and creating data-driven solutions. Skilled in transforming complex data into actionable insights and developing AI-powered models to solve real-world problems. Focused on leveraging data science to generate new ideas, optimize decision-making, and drive impactful change.",
+  "work_experience": [
+    "President, Computer Science & Engineering Club, Univesity of Hafer Albatin, 02/2024 - Present",
+    "IT Operations Technician, Ninety Workshop, 03/2022 -12/2024"
+  ],
+  "years_of_experience": null,
+  "education": [],
+  "certifications and courses": [],
+  "projects": [
+    "Emergency Wait Time Optimization",
+    "Urban Aesthetic Improvement Project"
+  ],
+  "skills": [
+    "Python",
+    "R",
+    "Data Management",
+    "Data Analytics",
+    "Data Visualization",
+    "Web Development with Flask"
+  ]
+}

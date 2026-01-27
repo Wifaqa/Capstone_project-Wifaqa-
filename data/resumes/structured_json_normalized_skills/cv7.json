@@ -1,0 +1,67 @@
+{
+    "name": "Faisal Balkhair",
+    "contact_info": {
+        "email": "Faisal_balkhair@hotmail.com",
+        "phone": "+966 593 300 871",
+        "linkedin": null
+    },
+    "summary": "Computer Science graduate with practical experience in programming, web development, and IT operations. Skilled in Python, SQL, and data handling with a solid understanding of software engineering principles. Passionate about learning and applying artificial intelligence and machine learning concepts to develop efficient and innovative solutions.",
+    "work_experience": [
+        "Saudi Geological Survey | Saudi Arabia | Intern | June 2024 - August 2024 | Assisted in maintaining and troubleshooting networking systems to ensure smooth IT operations. Supported programming tasks, including writing and testing code for internal applications. Assisted in implementing cybersecurity measures and monitoring system security. Collaborated with IT team members to complete projects across multiple technical areas. Documented processes, prepared reports, and contributed to improving departmental workflows."
+    ],
+    "years_of_experience": null,
+    "education": [
+        "King Abdulaziz University | Saudi Arabia | Bachelor's Degree in Computer Science | GPA: 4.52/5, with Second Class Honors | 2025 | Built a strong foundation in programming, algorithms, and data structures to solve complex problems. Gained expertise in web development, database management, and software engineering practices. Developed skills in designing, testing, and deploying software solutions using modern tools. Strengthened problem-solving, teamwork, and analytical abilities through hands-on projects."
+    ],
+    "certifications and courses": [
+        "Flutter & Dart Bootcamp: GDSC | King Abdulaziz University | February 2024",
+        "Introduction to AI | KAUST | January 2024"
+    ],
+    "projects": [
+        "Graduation Project: AI-Powered Management System | King Abdulaziz University | 2025 | Developed an online platform to manage graduation projects with centralized submissions, real-time updates, a 24/7 AI chatbot, and a public repository of past projects.",
+        "Buyta: Business Consulting Website | Developed a responsive website for Buyta to showcase services, manage client bookings, collect feedback, and integrate maps and social links using PHP, MySQL, HTML, CSS, and JavaScript."
+    ],
+    "skills": [
+        "Programming Languages: Java and Python",
+        "Data Analysis and Visualization",
+        "SQL & Database Management",
+        "Tools: Git and VS Code",
+        "Pandas",
+        "PyTorch",
+        "Machine Learning",
+        "Deep Learning",
+        "Web Development: HTML and CSS"
+    ],
+    "deterministic_normalized_skills": [
+        "java",
+        "python",
+        "data analysis",
+        "visualization",
+        "sql",
+        "database management",
+        "git",
+        "vs code",
+        "pandas",
+        "pytorch",
+        "machine learning",
+        "deep learning",
+        "html",
+        "css"
+    ],
+    "normalized_skills": [
+        "java",
+        "python",
+        "data analysis",
+        "visualization",
+        "sql",
+        "database management",
+        "git",
+        "vs code",
+        "pandas",
+        "pytorch",
+        "machine learning",
+        "deep learning",
+        "html",
+        "css"
+    ]
+}

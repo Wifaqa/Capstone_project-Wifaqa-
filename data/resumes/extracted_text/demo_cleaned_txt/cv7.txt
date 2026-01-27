@@ -1,0 +1,67 @@
+Faisal Balkhair 
+ 
+ +966 593 300 871 Faisal_balkhair@hotmail.com Faisal-Balkhair Saudi Arabia 
+ 
+PROFESSIONAL SUMMARY 
+ 
+Computer Science graduate with practical experience in programming, web development, and IT operations. 
+Skilled in Python, SQL, and data handling with a solid understanding of software engineering principles. 
+Passionate about learning and applying artificial intelligence and machine learning concepts to develop efficient 
+and innovative solutions. 
+ 
+EXPERIENCES 
+ 
+Saudi Geological Survey | Saudi Arabia 
+Intern | June 2024   August 2024. 
+o Assisted in maintaining and troubleshooting networking systems to ensure smooth IT operations. 
+o Supported programming tasks, including writing and testing code for internal applications. 
+o Assisted in implementing cybersecurity measures and monitoring system security. 
+o Collaborated with IT team members to complete projects across multiple technical areas. 
+o Documented processes, prepared reports, and contributed to improving departmental workflows. 
+ 
+EDUCATION 
+ 
+King Abdulaziz University | Saudi Arabia 
+Bachelor s Degree in Computer Science | GPA: 4.52/5, with Second Class Honors | 2025. 
+o Built a strong foundation in programming, algorithms, and data structures to solve complex problems. 
+o Gained expertise in web development, database management, and software engineering practices. 
+o Developed skills in designing, testing, and deploying software solutions using modern tools. 
+o Strengthened problem-solving, teamwork, and analytical abilities through hands-on projects. 
+ 
+CERTIFICATIONS AND COURSES 
+ 
+o Flutter & Dart Bootcamp: GDSC | King Abdulaziz University | February 2024. 
+o Introduction to AI | KAUST | January 2024. 
+ 
+PROJECTS 
+ 
+o Graduation Project: AI-Powered Management System | King Abdulaziz University | 2025. 
+- 
+Developed an online platform to manage graduation projects with centralized submissions, real-time 
+updates, a 24/7 AI chatbot, and a public repository of past projects. 
+o Buyta: Business Consulting Website. 
+- 
+Developed a responsive website for Buyta to showcase services, manage client bookings, collect 
+feedback, and integrate maps and social links using PHP, MySQL, HTML, CSS, and JavaScript. 
+ 
+SKILLS 
+ 
+o Programming 
+Languages: 
+Java 
+and 
+Python. 
+o Data Analysis and Visualization. 
+o SQL & Database Management. 
+o Tools: Git and VS Code 
+o Pandas 
+o PyTorch. 
+o Machine Learning. 
+o Deep Learning. 
+o Web Development: HTML and CSS 
+ 
+ 
+LANGUAGES 
+ 
+  Arabic. 
+  English.

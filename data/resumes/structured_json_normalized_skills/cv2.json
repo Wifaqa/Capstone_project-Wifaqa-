@@ -1,0 +1,67 @@
+{
+    "name": "Abdulrahman Alshatri BI Analyst",
+    "contact_info": {
+        "email": "Dsc.Abdulrahman@gmail.com",
+        "phone": "0552461651",
+        "linkedin": "linkedin.com/in/dscabdulrahman"
+    },
+    "summary": "Data Science graduate with a strong foundation in data analysis, SQL, and data visualization. Experienced in building Power BI dashboards, analyzing business data, and transforming raw data into actionable insights to support data-driven decision making.",
+    "work_experience": [
+        "Data Scientist Intern at Medura (2025/11 - Present) - Conducting data analysis to support decision-making and operational improvements. Building automation workflows using Airtable, n8n, and Zapier to integrate and streamline data processes. Developing dashboards and reports to monitor project and team performance.",
+        "Data Scientist (Co-op) at King Abdulaziz City for Science and Technology (KACST) (2024/06 - 2024/08) - NLP Project(Resume Parser)"
+    ],
+    "years_of_experience": null,
+    "education": [
+        "Bachelor's Degree in Data science from University of Hafr Albatin (2020 - 2025)"
+    ],
+    "certifications and courses": [],
+    "projects": [
+        "Resume Parser - NLP-Powered Resume Ranking System. Enabled analytical reporting on candidate skills and job matching results. Automated skill extraction from PDF resumes using NLP (spaCy). Technical requirement compatibility scoring mechanism. Structured candidate ranking outputs (CSV/TXT).",
+        "Smart Health Predictor - ML Disease Prediction | Flask, Scikit-learn. Developed 3 clinical models via Flask API. Implemented auto-retraining (50 submissions) + KNN imputation. Produced structured outputs to support analytical insights. Optimized preprocessing for clinical data constraints."
+    ],
+    "skills": [
+        "Business Intelligence & Reporting: PowerBI, KPI Tracking, Dashboards, Business Reports",
+        "Data Analysis: Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA)",
+        "Programming Language: Python, SQL, R",
+        "Automation & Tools: AirTable, n8n, Zapier",
+        "Soft Skills: Research Skill, Team Work, Problem Solving, Decision Making"
+    ],
+    "deterministic_normalized_skills": [
+        "powerbi",
+        "kpi tracking",
+        "dashboards",
+        "business reports",
+        "data cleaning",
+        "data transformation",
+        "exploratory data analysis (eda)",
+        "python",
+        "sql",
+        "r",
+        "airtable",
+        "n8n",
+        "zapier",
+        "research skill",
+        "team work",
+        "problem solving",
+        "decision making"
+    ],
+    "normalized_skills": [
+        "powerbi",
+        "kpi tracking",
+        "dashboards",
+        "business reports",
+        "data cleaning",
+        "data transformation",
+        "exploratory data analysis",
+        "python",
+        "sql",
+        "r",
+        "airtable",
+        "n8n",
+        "zapier",
+        "research skill",
+        "team work",
+        "problem solving",
+        "decision making"
+    ]
+}

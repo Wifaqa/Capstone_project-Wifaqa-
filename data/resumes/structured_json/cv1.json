@@ -1,0 +1,32 @@
+{
+  "name": "Khalid Alkhaldi",
+  "contact_info": {
+    "email": "alkaldy30.a@gmail.com",
+    "phone": "+966550246173",
+    "linkedin": "LinkedIn"
+  },
+  "summary": null,
+  "work_experience": [
+    "Intern | Saudi Authority for Intellectual Property   Riyadh  06/2024   08/2024",
+    "Laboratory & Technical Support Assistant (Part-Time) | University of Hafr AlBatin  10/2024   05/2025"
+  ],
+  "years_of_experience": null,
+  "education": [
+    "Bachelor of Science in Data Science | College of Computer Science and Engineering  08/2020   06/2025  University of Hafr AlBatin"
+  ],
+  "certifications and courses": [
+    "Data Science & Artificial Intelligence Bootcamp   Tuwaiq Academy 10/2025   12/2025"
+  ],
+  "projects": [
+    "Graduation Project   Smart Health Predictor",
+    "Graduation Project | Bidaya   AI Interview Platform"
+  ],
+  "skills": [
+    "Programming: Python, R, SQL, HTML, CSS",
+    "Frameworks: Pandas, NumPy, Scikit-learn, Matplotlib, SciPy, Flask, Ggplot2, PySpark, TensorFlow, PyTorch",
+    "Tools: Power BI, Tableau, Excel, PowerPoint, MySQL, MongoDB",
+    "Platforms: Jupyter Notebook, PyCharm, Visual Studio Code, Google Collab",
+    "Soft Skills: Problem Solving, Time Management, Communication, Teamwork, Critical Thinking, Adaptability",
+    "Languages: Arabic   Native | English   Proficient"
+  ]
+}

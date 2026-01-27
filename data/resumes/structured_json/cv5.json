@@ -1,0 +1,35 @@
+{
+  "name": "Abdulrahman Salim Saud",
+  "contact_info": {
+    "email": "abdulrahmansaud1998@outlook.com",
+    "phone": "+966538081148",
+    "linkedin": null
+  },
+  "summary": null,
+  "work_experience": [
+    "Data Analyst Intern | University of Hafr Al Batin | Jun 2024 to Aug 2024 | Analyzed and visualized datasets using Python to support academic research and institutional reporting. Designed interactive dashboards to track employee performance metrics.",
+    "IT Assistant (Part-Time) | University of Hafr Al Batin | Two Academic Semesters | Installed, configured, and maintained computer systems, networks, and software for faculty and staff. Provided technical support and troubleshooting, improving system efficiency and reducing downtime.",
+    "Instructor | ALFOA Institute, Hafr Al Batin | Delivered lectures and workshops in computer fundamentals and productivity software. Assisted in creating curriculum content and instructional materials to enhance student learning outcomes."
+  ],
+  "years_of_experience": null,
+  "education": [
+    "Bachelor's degree From College of Computer Science & Engineering in Data Science | 2021 - 2025 | University of Hafr Al Batin | GPA: 3.9 / 4.0 | first honor class | Relevant coursework includes Machine Learning, Data Mining & Big Data Analytics, Statistical Modeling, Data Visualization & Dashboard Design, Artificial Intelligence, Database Systems (SQL), and Business Intelligence."
+  ],
+  "certifications and courses": [
+    "English Language Course - FAO Institute (6 months)",
+    "Microsoft Office Course - FAO Institute (6 months)",
+    "Certificate data visualization by Tableau"
+  ],
+  "projects": [
+    "Loan Default Prediction Model | Graduation Project | Developed a machine learning model to predict loan defaults using real-world data from Lending Club. Built and compared Decision Tree, Random Forest, and SVM models; Random Forest achieved 85%.",
+    "NYC Taxi Data Analysis | Big data Project | Processed and analyzed trip data spanning from 2009 to 2024. Explored passenger behavior, seasonal trends, and fare distributions using PySpark big data frameworks."
+  ],
+  "skills": [
+    "Programming: Python, R, SQL, HTML, CSS",
+    "Frameworks: Pandas, NumPy, Scikit-learn, Matplotlib, Flask, Ggplot2, PySpark",
+    "Tools: Power BI, Excel, PowerPoint, MySQL, Tableau",
+    "Platforms: Jupyter Notebook, PyCharm, Visual Studio Code",
+    "Soft Skills: Problem Solving, Time Management, Communication, Public Speaking, Social Media Creation",
+    "Languages: Arabic and English"
+  ]
+}

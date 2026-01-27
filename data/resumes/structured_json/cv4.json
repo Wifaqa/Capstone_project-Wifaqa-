@@ -1,0 +1,34 @@
+{
+  "name": "KHALID AL-KHALDI",
+  "contact_info": {
+    "email": "alkaldy30.a@gmail.com",
+    "phone": "+966550246173",
+    "linkedin": "linkedin"
+  },
+  "summary": "Data Science graduate passionate about building intelligent, data-driven solutions. Experienced in transforming real-world data into insights and developing predictive models to support smart decision-making. Focused on applying AI and analytics to drive innovation, enhance efficiency, and contribute to digital transformation goals.",
+  "work_experience": [
+    "Infrastructure Intern at Saudi Authority for Intellectual Property, Riyadh, Saudi Arabia",
+    "Vice President of Computer Science and Engineering Club",
+    "Worked part-time at the College of Computer Science, supporting labs and student development"
+  ],
+  "years_of_experience": null,
+  "education": [
+    "University of Hafer Albatin - Bachelor degree in Data Science, 08/2020 - 2025/05"
+  ],
+  "certifications and courses": [],
+  "projects": [
+    "Disease Risk Prediction & Auto-Retraining Web Platform",
+    "U.S. State Legal Cases Big Data Analysis"
+  ],
+  "skills": [
+    "Python, R, SQL, HTML",
+    "Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn",
+    "Tableau, Power BI",
+    "Supervised & Unsupervised Learning",
+    "Model Training & Evaluation",
+    "Apache Spark, Hadoop",
+    "Microsoft Azure (basic)",
+    "Problem Solving, Communication, Team Collaboration",
+    "Time Management, Leadership, Self-learning"
+  ]
+}
