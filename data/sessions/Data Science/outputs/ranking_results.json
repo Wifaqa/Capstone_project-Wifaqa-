@@ -1,0 +1,162 @@
+[
+  {
+    "candidate_id": "cv3",
+    "candidate_name": "Abdullah Al-Mutairi",
+    "fit_score": 42.0,
+    "score_breakdown": {
+      "required_skills": 42.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "predictive modeling",
+      "business problem solving",
+      "python programming",
+      "communication skills",
+      "r programming",
+      "data wrangling"
+    ],
+    "missing_required_skills": [
+      "statistical analysis",
+      "data analysis",
+      "data visualization"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Matched required skills**: Abdullah has 7 out of 10 required skills, including machine learning, predictive modeling, and Python programming.  \n- **Missing required skills**: Lacks 3 critical skills: statistical analysis, data analysis, and data visualization.  \n- **Matched preferred skills**: None of the preferred skills were matched.  \n- **Experience match**: No years of experience provided, which does not meet the unspecified minimum requirement.  \n- **Overall**: Partial alignment with required skills and no preferred skills, resulting in a moderate fit score of 42.0.",
+    "evidence": [
+      "Data Science graduate with hands-on experience in data analysis, big data processing, and system development through academic projects and cooperative training. Skilled in transforming raw data into actionable insights, building scalable data workflows, and applying analytical and machine learning concepts to solve real-world problems. Experienced in working with large datasets, databases, and cross-functional teams, with a strong foundation in problem-solving, data quality, and continuous learning.",
+      "Conducted scalable data analysis using Spark's distributed processing and RDD-based operations to identify crime patterns, trends, and relationships across multiple years.",
+      "Conducted scalable data analysis using Spark's distributed processing and RDD-based operations to identify crime patterns, trends, and relationships across multiple years."
+    ]
+  },
+  {
+    "candidate_id": "cv2",
+    "candidate_name": "Abdulrahman Alshatri",
+    "fit_score": 42.0,
+    "score_breakdown": {
+      "required_skills": 42.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "predictive modeling",
+      "business problem solving",
+      "python programming",
+      "r programming",
+      "data analysis",
+      "data wrangling"
+    ],
+    "missing_required_skills": [
+      "communication skills",
+      "statistical analysis",
+      "data visualization"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Matched required skills**: Candidate has 7 out of 10 required skills.  \n- **Missing required skills**: Lacks 3 critical skills: communication, statistical analysis, and data visualization.  \n- **Matched preferred skills**: No preferred skills matched.  \n- **Experience match**: No experience provided, but no minimum years required.  \n- **Fit score**: 42.0 reflects partial alignment with required skills and no preferred skills.",
+    "evidence": [
+      "Data Science graduate with a strong foundation in data analysis, SQL, and data visualization. Experienced in building Power BI dashboards, analyzing business data, and transforming raw data into actionable insights to support data-driven decision making.",
+      "Conducting data analysis to support decision-making and operational improvements.",
+      "Produced structured outputs to support analytical insights."
+    ]
+  },
+  {
+    "candidate_id": "cv5",
+    "candidate_name": "Abdulrahman Salim Saud",
+    "fit_score": 42.0,
+    "score_breakdown": {
+      "required_skills": 42.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "predictive modeling",
+      "business problem solving",
+      "python programming",
+      "communication skills",
+      "r programming",
+      "data wrangling"
+    ],
+    "missing_required_skills": [
+      "statistical analysis",
+      "data analysis",
+      "data visualization"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Matched required skills**: 7 out of 10 skills matched (e.g., machine learning, Python programming).  \n- **Missing required skills**: 3 key skills missing (statistical analysis, data analysis, data visualization).  \n- **Matched preferred skills**: No preferred skills matched.  \n- **Experience match**: No experience provided, but no minimum years required.  \n- **Fit score**: Lower due to missing required skills and no preferred skills matched.",
+    "evidence": [
+      "Analyzed and visualized datasets using Python to support academic research and institutional reporting.",
+      "Big data Project",
+      "Built and compared Decision Tree, Random Forest, and SVM models; Random Forest achieved 85%"
+    ]
+  },
+  {
+    "candidate_id": "cv4",
+    "candidate_name": "KHALID AL-KHALDI",
+    "fit_score": 42.0,
+    "score_breakdown": {
+      "required_skills": 42.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "predictive modeling",
+      "business problem solving",
+      "python programming",
+      "communication skills",
+      "r programming",
+      "data wrangling"
+    ],
+    "missing_required_skills": [
+      "statistical analysis",
+      "data analysis",
+      "data visualization"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Matched 7/10 required skills** (missing 3 key skills: statistical analysis, data analysis, data visualization).  \n- **No preferred skills matched**.  \n- **Experience not provided**, so no match on years.  \n- **Moderate fit** due to gaps in core data science skills (statistics, analysis, visualization).",
+    "evidence": [
+      "Data Science graduate passionate about building intelligent, data-driven solutions. Experienced in transforming real-world data into insights and developing predictive models to support smart decision-making. Focused on applying AI and analytics to drive innovation, enhance efficiency, and contribute to digital transformation goals.",
+      "Technologies: Python, Flask, Scikit-learn, Pandas, KNNImputer, RandomForest, HTML, CSV logging",
+      "Technologies: Python, Flask, Scikit-learn, Pandas, KNNImputer, RandomForest, HTML, CSV logging"
+    ]
+  },
+  {
+    "candidate_id": "cv6",
+    "candidate_name": "Saleh Al-Anazi",
+    "fit_score": 42.0,
+    "score_breakdown": {
+      "required_skills": 42.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "predictive modeling",
+      "business problem solving",
+      "python programming",
+      "r programming",
+      "data visualization",
+      "data wrangling"
+    ],
+    "missing_required_skills": [
+      "communication skills",
+      "statistical analysis",
+      "data analysis"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Matched required skills**: Candidate has 7 out of 10 required skills.  \n- **Missing required skills**: Lacks 3 critical skills: communication, statistical analysis, and data analysis.  \n- **Matched preferred skills**: No preferred skills matched.  \n- **Experience match**: No experience provided, failing to meet the experience requirement.  \n- **Fit score**: 42.0 reflects partial alignment with job requirements but significant gaps in skills and experience.",
+    "evidence": [
+      "Senior Data Scientist with a passion for innovating and creating data-driven solutions. Skilled in transforming complex data into actionable insights and developing AI-powered models to solve real-world problems. Focused on leveraging data science to generate new ideas, optimize decision-making, and drive impactful change.",
+      "Data Visualization & Analysis: Developed interactive dashboards using Power BI to analyze and visualize client data, enabling data-driven decision-making.",
+      "Built an interactive platform with Python, Flask, and Gradient Boosting, providing real-time predictions based on day, month, and time period."
+    ]
+  }
+]

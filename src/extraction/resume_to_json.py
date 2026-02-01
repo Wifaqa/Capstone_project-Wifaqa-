@@ -3,7 +3,8 @@ import re
 import os
 from pathlib import Path
 from openai import OpenAI
-
+from dotenv import load_dotenv
+load_dotenv()
 # OpenRouter client
 client = OpenAI(
     # api_key="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",
@@ -59,33 +60,72 @@ def safe_json_parse(text: str) -> dict:
 # Prompt Builder
 # =========================
 def build_prompt(text: str) -> str:
-    return f"""
+    return """
 Extract the following resume into STRICT JSON ONLY.
 Do NOT include explanations or markdown.
 
 Schema:
-{{
-  "name": string or null,
-  "contact_info": {{
-    "email": string or null,
-    "phone": string or null,
-    "linkedin": string or null,
-    }},
-    "summary": string or null,
-    "work_experience": [string],
-    "years_of_experience": number or null,
-    "education": [string],
-    "certifications and courses": [string],
-    "projects" : [string],
-    "skills" : [string],
-  
-  
+{
+  "full_name": "string | null",
 
-}}
+  "contact_info": {
+    "email": "string | null",
+    "phone": "string | null",
+    "linkedin": "string | null",
+    "location": "string | null"
+  },
+
+  "summary": "string | null",
+
+  "years_of_experience": "number | null",
+
+  "experiences": [
+    {
+      "title": "string | null",
+      "company": "string | null",
+      "location": "string | null",
+      "start_date": "string | null",
+      "end_date": "string | null",
+      "bullets": ["string"]
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "string | null",
+      "university": "string | null",
+      "start_date": "string | null",
+      "end_date": "string | null",
+      "gpa": "string | null"
+    }
+  ],
+
+  "certifications": [
+    {
+      "title": "string | null",
+      "provider": "string | null",
+      "start_date": "string | null",
+      "end_date": "string | null"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "string | null",
+      "description": "string | null",
+      "bullets": ["string"],
+      "tools": ["string"]
+    }
+  ],
+
+  "other_sections": ["string"],
+
+  "skills": ["string"]
+}
 
 Resume:
 \"\"\"
-{text}
+""" + text + """
 \"\"\"
 """
 
@@ -109,7 +149,10 @@ def extract_json_from_text(text: str) -> dict:
 # =========================
 # Process All TXT Files
 # =========================
-def process_all_txt():
+def process_all_txt(session_dir: Path):
+    INPUT_TEXT_DIR = session_dir / "resumes" / "extracted_text_cleaned"
+    OUTPUT_JSON_DIR = session_dir / "resumes" / "structured_json"
+    OUTPUT_JSON_DIR.mkdir(parents=True, exist_ok=True)
     txt_files = list(INPUT_TEXT_DIR.glob("*.txt"))
 
     if not txt_files:

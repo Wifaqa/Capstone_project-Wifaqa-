@@ -1,0 +1,41 @@
+{
+  "job_title": "Data Scientist",
+  "seniority_level": null,
+  "required": {
+    "skills": [
+      "statistical analysis",
+      "machine learning",
+      "python programming",
+      "r programming",
+      "data wrangling",
+      "data visualization",
+      "communication skills",
+      "predictive modeling",
+      "data analysis",
+      "business problem solving"
+    ],
+    "tools": [],
+    "domain_knowledge": [],
+    "min_years_exp": null,
+    "education_level": null,
+    "degree_fields": [],
+    "languages": []
+  },
+  "preferred": {
+    "skills": [],
+    "tools": [],
+    "certifications": [],
+    "industry_exp": []
+  },
+  "responsibilities": [],
+  "keywords": [
+    "data scientist",
+    "statistical techniques",
+    "machine learning algorithms",
+    "data insights",
+    "business growth",
+    "strategic decision-making",
+    "predictive models",
+    "business problems"
+  ]
+}

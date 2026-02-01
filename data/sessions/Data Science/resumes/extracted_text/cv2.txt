@@ -1,0 +1,51 @@
+Abdulrahman Alshatri  BI Analyst
+Dsc.Abdulrahman@gmail.com
+ 
+0552461651
+ 
+Riyadh, Saudi Arabia
+ 
+linkedin.com/in/dscabdulrahman
+ 
+Profile
+Data Science graduate with a strong foundation in data analysis, SQL, and data visualization.
+Experienced in building Power BI dashboards, analyzing business data, and transforming raw data into 
+actionable insights to support data-driven decision making.
+Education
+Bachelor's Degree in Data science
+University of Hafr Albatin
+2020 – 2025
+Professional Experience
+Data Scientist Intern
+Medura
+•Conducting data analysis to support decision-making and operational 
+improvements.
+2025/11 – Present
+Riyadh
+•Building automation workflows using Airtable, n8n, and Zapier to integrate 
+and streamline data processes.
+•Developing dashboards and reports to monitor project and team performance.
+Data Scientist (Co-op)
+King Abdulaziz City for Science and Technology (KACST)
+NLP Project(Resume Parser)
+2024/06 – 2024/08
+Riyadh
+Projects
+Resume Parser
+NLP-Powered Resume Ranking System  
+•Enabled analytical reporting on candidate skills and job matching results.
+•Automated skill extraction from PDF resumes using NLP (spaCy)  
+•Technical requirement compatibility scoring mechanism  
+•Structured candidate ranking outputs (CSV/TXT)  
+Smart Health Predictor
+ML Disease Prediction | Flask, Scikit-learn  
+•Developed 3 clinical models via Flask API  
+•Implemented auto-retraining (50 submissions) + KNN imputation 
+•Produced structured outputs to support analytical insights
+•Optimized preprocessing for clinical data constraints  
+Skills
+Business Intelligence & Reporting: PowerBI, KPI Tracking, Dashboards, Business Reports
+Data Analysis: Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA)
+Programming Language: Python, SQL, R
+Automation & Tools: AirTable, n8n, Zapier
+Soft Skills: Research Skill, Team Work, Problem Solving, Decision Making

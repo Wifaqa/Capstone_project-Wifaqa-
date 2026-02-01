@@ -1,0 +1,79 @@
+{
+  "full_name": "Faisal Balkhair",
+  "contact_info": {
+    "email": "Faisal_balkhair@hotmail.com",
+    "phone": "+966 593 300 871",
+    "linkedin": "Faisal-Balkhair",
+    "location": "Saudi Arabia"
+  },
+  "summary": "Computer Science graduate with practical experience in programming, web development, and IT operations. Skilled in Python, SQL, and data handling with a solid understanding of software engineering principles. Passionate about learning and applying artificial intelligence and machine learning concepts to develop efficient and innovative solutions.",
+  "years_of_experience": null,
+  "experiences": [
+    {
+      "title": "Intern",
+      "company": "Saudi Geological Survey",
+      "location": "Saudi Arabia",
+      "start_date": "June 2024",
+      "end_date": "August 2024",
+      "bullets": [
+        "Assisted in maintaining and troubleshooting networking systems to ensure smooth IT operations.",
+        "Supported programming tasks, including writing and testing code for internal applications.",
+        "Assisted in implementing cybersecurity measures and monitoring system security.",
+        "Collaborated with IT team members to complete projects across multiple technical areas.",
+        "Documented processes, prepared reports, and contributed to improving departmental workflows."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree in Computer Science",
+      "university": "King Abdulaziz University",
+      "start_date": null,
+      "end_date": "2025",
+      "gpa": "4.52/5, with Second Class Honors"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Flutter & Dart Bootcamp",
+      "provider": "GDSC | King Abdulaziz University",
+      "start_date": "February 2024",
+      "end_date": null
+    },
+    {
+      "title": "Introduction to AI",
+      "provider": "KAUST",
+      "start_date": "January 2024",
+      "end_date": null
+    }
+  ],
+  "projects": [
+    {
+      "title": "Graduation Project: AI-Powered Management System",
+      "description": "Developed an online platform to manage graduation projects with centralized submissions, real-time updates, a 24/7 AI chatbot, and a public repository of past projects.",
+      "bullets": [],
+      "tools": []
+    },
+    {
+      "title": "Buyta: Business Consulting Website",
+      "description": "Developed a responsive website for Buyta to showcase services, manage client bookings, collect feedback, and integrate maps and social links using PHP, MySQL, HTML, CSS, and JavaScript.",
+      "bullets": [],
+      "tools": []
+    }
+  ],
+  "other_sections": [
+    "Arabic.",
+    "English."
+  ],
+  "skills": [
+    "Programming Languages: Java and Python.",
+    "Data Analysis and Visualization.",
+    "SQL & Database Management.",
+    "Tools: Git and VS Code",
+    "Pandas",
+    "PyTorch.",
+    "Machine Learning.",
+    "Deep Learning.",
+    "Web Development: HTML and CSS"
+  ]
+}

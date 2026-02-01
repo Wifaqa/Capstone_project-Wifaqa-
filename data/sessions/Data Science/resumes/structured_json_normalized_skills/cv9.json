@@ -1,0 +1,119 @@
+{
+    "full_name": "Mohamed Saad",
+    "contact_info": {
+        "email": "Mohamedsaad3633@gmail.com",
+        "phone": "+966 - 509883633",
+        "linkedin": null,
+        "location": "Saudi Arabia"
+    },
+    "summary": "A recent graduate of Data Science, my ambition is to join a professional work environment that enables me to develop my scientific and practical skills to contribute to the development of the workplace in which I will work, and to be an effective and productive member to serve my community, advance my country, and contribute to improving and developing work to achieve the goals of the Kingdom s Vision 2030.",
+    "years_of_experience": null,
+    "experiences": [
+        {
+            "title": "Data Entry Clerk",
+            "company": "Adex Company",
+            "location": null,
+            "start_date": "2021",
+            "end_date": "2024",
+            "bullets": []
+        },
+        {
+            "title": "IT in education administration (Co-op)",
+            "company": null,
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "bullets": []
+        },
+        {
+            "title": "Volunteer work in Hajj service",
+            "company": null,
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "bullets": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering and Computer Science",
+            "university": "University of Hafr Al-Batin",
+            "start_date": "2019",
+            "end_date": "2024",
+            "gpa": null
+        }
+    ],
+    "certifications": [],
+    "projects": [
+        {
+            "title": "Prediction of diabetes",
+            "description": "Diabetes represents a major public health challenge and Machine learning techniques provide a promising way to predict diabetes risk based on patient characteristics and various biomarkers and in this project we used Pima Indians data and some libraries like Pandas, Numpy, Seaborn, Matplotlib to deal with these problems and we use some Model like Logistic Regression, SVC, Random Forest Classifier, Train and test Data, Confusion matrix the study contributes to the advancement of predictive analytics in diabetes management and prevention 2030.",
+            "bullets": [],
+            "tools": []
+        }
+    ],
+    "other_sections": [],
+    "skills": [
+        "Microsoft Office programs",
+        "Ability to deal with big data",
+        "Crisis and risk management",
+        "Python",
+        "Advanced google analytics",
+        "Human Resources Management",
+        "SQL",
+        "AI and Machine Learning for Data Analysis",
+        "Customer Service",
+        "Data analysis",
+        "Cisco Technologies",
+        "Professional Seller Setup",
+        "Analytical skills",
+        "Big Data",
+        "Introduction to Cyber Security",
+        "HTML",
+        "Computer applications",
+        "Predictive Analysis"
+    ],
+    "normalized_skills": [
+        "microsoft office programs",
+        "ability to deal with big data",
+        "crisis and risk management",
+        "python",
+        "advanced google analytics",
+        "human resources management",
+        "sql",
+        "ai",
+        "machine learning for data analysis",
+        "customer service",
+        "data analysis",
+        "cisco technologies",
+        "professional seller setup",
+        "analytical skills",
+        "big data",
+        "introduction to cyber security",
+        "html",
+        "computer applications",
+        "predictive analysis"
+    ],
+    "deterministic_normalized_skills": [
+        "microsoft office programs",
+        "ability to deal with big data",
+        "crisis",
+        "risk management",
+        "python",
+        "advanced google analytics",
+        "human resources management",
+        "sql",
+        "ai",
+        "machine learning for data analysis",
+        "customer service",
+        "data analysis",
+        "cisco technologies",
+        "professional seller setup",
+        "analytical skills",
+        "big data",
+        "introduction to cyber security",
+        "html",
+        "computer applications",
+        "predictive analysis"
+    ]
+}

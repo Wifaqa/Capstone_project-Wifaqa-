@@ -1,0 +1,71 @@
+Abdulrahman Salim Saud 
+ abdulrahmansaud1998@outlook.com 
+ LinkedIn 
+ +966538081148 
+ Eastern, Saudi Arabia 
+ 
+EDUCATION 
+ Bachelor s degree From College of Computer Science & Engineering in | Data Science | 
+ 2021   2025 
+ University of Hafr Al Batin | GPA: 3.9 / 4.0 |first honor class| 
+  
+Relevant coursework includes Machine Learning, Data Mining & Big Data Analytics, Statistical Modeling, Data 
+Visualization & Dashboard Design, Artificial Intelligence, Database Systems (SQL), and Business Intelligence. 
+SUMMARY SKILLS 
+o Programming: Python, R, SQL, HTML, CSS 
+o Frameworks: 
+Pandas, NumPy, Scikit-learn, Matplotlib, Flask, Ggplot2, PySpark 
+o Tools: 
+ 
+Power BI, Excel, PowerPoint, MySQL, Tableau 
+o Platforms: 
+Jupyter Notebook, PyCharm, Visual Studio Code 
+o Soft Skills: Problem Solving, Time Management, Communication, Public Speaking, Social Media Creation 
+o Languages: 
+Arabic and English 
+EXPERIENCE 
+ 
+ Data Analyst Intern | University of Hafr Al Batin 
+ 
+ 
+ 
+ 
+ 
+ Jun 2024 to Aug 2024 
+o 
+Analyzed and visualized datasets using Python to support academic research and institutional reporting. 
+o 
+Designed interactive dashboards to track employee performance metrics. 
+ IT Assistant (Part-Time) | University of Hafr Al Batin 
+ 
+ 
+ 
+ Two Academic Semesters 
+o 
+Installed, configured, and maintained computer systems, networks, and software for faculty and staff. 
+o 
+Provided technical support and troubleshooting, improving system efficiency and reducing downtime. 
+ Instructor | ALFOA Institute, Hafr Al Batin 
+o 
+Delivered lectures and workshops in computer fundamentals and productivity software. 
+o 
+Assisted in creating curriculum content and instructional materials to enhance student learning outcomes. 
+PROJECT 
+ Loan Default Prediction Model | Graduation Project 
+o 
+Developed a machine learning model to predict loan defaults using real-world data from Lending Club. 
+o 
+Built and compared Decision Tree, Random Forest, and SVM models; Random Forest achieved 85% 
+ NYC Taxi Data Analysis | Big data Project 
+o Processed and analyzed trip data spanning from 2009 to 2024 
+o Explored passenger behavior, seasonal trends, and fare distributions using PySpark big data frameworks. 
+ACHIEVEMENT 
+o English Language Course   FAO Institute (6 months) 
+o Making workshop in intro to Data science 
+o Get first place in the translation Hackathon 
+o Recommendation Letter 
+o Head of Students club in Computer Science & Engineering 
+o Teaching English as Part time job 
+o Microsoft office Course   FAO Institute (6 months) 
+ 
+o Certificate data visualization by Tableau

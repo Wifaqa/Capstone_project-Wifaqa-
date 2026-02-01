@@ -1,0 +1,17 @@
+Job Description
+
+Job Summary:
+We are looking for an experienced AI & Automation Specialist to design, build, and optimize AI-driven workflows that support our business operations, sales, marketing, and back-office functions. The ideal candidate will play a key role in transforming manual processes into smart, automated systems.
+Key Responsibilities:
+•Design and optimize AI prompts for business use cases.
+•Build and manage automation workflows using n8n.
+•Integrate AI tools with business platforms and systems.
+•Develop reusable automation templates and workflows for teams.
+•Train teams on how to effectively use AI tools and automation systems.
+•Continuously improve workflows based on business and operational needs.
+Requirements:
+•Proven experience working with n8n (mandatory).
+•Strong understanding of AI tools and prompt engineering.
+•Experience in workflow automation and business process optimization.
+•Ability to translate business needs into technical workflows.
+•Good communication and problem-solving skills.

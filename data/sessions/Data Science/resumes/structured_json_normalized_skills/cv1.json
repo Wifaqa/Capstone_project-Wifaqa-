@@ -1,0 +1,188 @@
+{
+    "full_name": "Khalid Alkhaldi",
+    "contact_info": {
+        "email": "alkaldy30.a@gmail.com",
+        "phone": "+966550246173",
+        "linkedin": "LinkedIn",
+        "location": "Riyadh"
+    },
+    "summary": null,
+    "years_of_experience": null,
+    "experiences": [
+        {
+            "title": "Intern",
+            "company": "Saudi Authority for Intellectual Property",
+            "location": "Riyadh",
+            "start_date": "06/2024",
+            "end_date": "08/2024",
+            "bullets": [
+                "Shadowed the Data & AI team, gaining hands-on experience with data pipelines, ETL (Extract, Transform, Load) processes, and building data flows that support AI models.",
+                "Developed a solid understanding of enterprise data architecture and how structured data enables AI-driven decision-making.",
+                "Gained exposure to training and evaluating machine learning models, including understanding how algorithms improve predictive accuracy."
+            ]
+        },
+        {
+            "title": "Laboratory & Technical Support Assistant (Part-Time)",
+            "company": "University of Hafr AlBatin",
+            "location": null,
+            "start_date": "10/2024",
+            "end_date": "05/2025",
+            "bullets": [
+                "Monitored laboratory equipment to detect malfunctions and identify defective parts, ensuring smooth operation.",
+                "Supported the organization and execution of college events, including hackathons, competitions, and student activities."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Data Science",
+            "university": "University of Hafr AlBatin",
+            "start_date": "08/2020",
+            "end_date": "06/2025",
+            "gpa": null
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Data Science & Artificial Intelligence Bootcamp",
+            "provider": "Tuwaiq Academy",
+            "start_date": "10/2025",
+            "end_date": "12/2025",
+            "bullets": [
+                "Performed full data exploration and manipulation using Python, applying EDA techniques to extract meaningful insights.",
+                "Applied core statistical methods, probability concepts, and matrix operations to strengthen analytical accuracy and model foundations.",
+                "Developed and optimized predictive machine learning models (regression & classification), ensuring strong performance and reliable decision-making.",
+                "Built and refined deep learning neural networks using Keras/TensorFlow, improving model accuracy and generalization.",
+                "Processed and structured language data using advanced NLP techniques, including text preprocessing, tokenization, and word embeddings."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Graduation Project - Smart Health Predictor",
+            "description": null,
+            "bullets": [
+                "Developed a Flask-based web application integrating machine learning models (Random Forest, Logistic Regression, Decision Tree) to predict diabetes, heart disease, and breast cancer risk with up to 95% accuracy.",
+                "Applied data preprocessing techniques (KNN imputation, one-hot encoding, outlier handling) and implemented automated retraining, enabling a scalable, user-friendly health prediction dashboard."
+            ],
+            "tools": []
+        },
+        {
+            "title": "Graduation Project | Bidaya - AI Interview Platform",
+            "description": null,
+            "bullets": [
+                "Built a Full-Stack AI-powered interview simulation platform leveraging LLMs (GPT-4o), Flask-based REST APIs, and a modern React/Vite frontend.",
+                "Integrated AI-driven job-role adaptation with speech-to-text and text-to-speech (Whisper, TTS), supporting Arabic and English interactions."
+            ],
+            "tools": []
+        }
+    ],
+    "other_sections": [
+        "Member | Student Club | College of Computer Science and Engineering"
+    ],
+    "skills": [
+        "Python",
+        "R",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "Matplotlib",
+        "SciPy",
+        "Flask",
+        "Ggplot2",
+        "PySpark",
+        "TensorFlow",
+        "PyTorch",
+        "Power BI",
+        "Tableau",
+        "Excel",
+        "PowerPoint",
+        "MySQL",
+        "MongoDB",
+        "Jupyter Notebook",
+        "PyCharm",
+        "Visual Studio Code",
+        "Google Collab",
+        "Problem Solving",
+        "Time Management",
+        "Communication",
+        "Teamwork",
+        "Critical Thinking",
+        "Adaptability",
+        "Arabic - Native",
+        "English - Proficient"
+    ],
+    "normalized_skills": [
+        "python",
+        "r",
+        "sql",
+        "html",
+        "css",
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "matplotlib",
+        "scipy",
+        "flask",
+        "ggplot2",
+        "pyspark",
+        "tensorflow",
+        "pytorch",
+        "power bi",
+        "tableau",
+        "excel",
+        "powerpoint",
+        "mysql",
+        "mongodb",
+        "jupyter notebook",
+        "pycharm",
+        "visual studio code",
+        "google collab",
+        "problem solving",
+        "time management",
+        "communication",
+        "teamwork",
+        "critical thinking",
+        "adaptability",
+        "arabic",
+        "english"
+    ],
+    "deterministic_normalized_skills": [
+        "python",
+        "r",
+        "sql",
+        "html",
+        "css",
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "matplotlib",
+        "scipy",
+        "flask",
+        "ggplot2",
+        "pyspark",
+        "tensorflow",
+        "pytorch",
+        "power bi",
+        "tableau",
+        "excel",
+        "powerpoint",
+        "mysql",
+        "mongodb",
+        "jupyter notebook",
+        "pycharm",
+        "visual studio code",
+        "google collab",
+        "problem solving",
+        "time management",
+        "communication",
+        "teamwork",
+        "critical thinking",
+        "adaptability",
+        "arabic",
+        "english"
+    ]
+}

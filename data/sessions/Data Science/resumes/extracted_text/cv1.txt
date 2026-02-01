@@ -1,0 +1,83 @@
+Khalid Alkhaldi 
+alkaldy30.a@gmail.com         +966550246173         LinkedIn         Riyadh 
+EDUCATION  
+Bachelor of Science in Data Science | College of Computer Science and Engineering  
+ 
+          08/2020 – 06/2025 
+University of Hafr AlBatin 
+SUMMARY SKILLS 
+• 
+Programming:  
+Python, R, SQL, HTML, CSS 
+• 
+Frameworks:  
+Pandas, NumPy, Scikit-learn, Matplotlib, SciPy, Flask, Ggplot2, PySpark, TensorFlow, PyTorch 
+• 
+Tools: 
+ 
+Power BI, Tableau, Excel, PowerPoint, MySQL, MongoDB 
+• 
+Platforms:  
+Jupyter Notebook, PyCharm, Visual Studio Code, Google Collab 
+• 
+Soft Skills:            
+Problem Solving, Time Management, Communication, Teamwork, Critical Thinking, Adaptability 
+• 
+Languages:  
+Arabic – Native | English – Proficient  
+PROFFESSIONAL EXPERIENCE 
+ Intern | Saudi Authority for Intellectual Property – Riyadh 
+ 
+ 
+ 
+    06/2024 – 08/2024 
+o 
+Shadowed the Data & AI team, gaining hands-on experience with data pipelines, ETL (Extract, Transform, Load) 
+processes, and building data flows that support AI models. 
+o 
+Developed a solid understanding of enterprise data architecture and how structured data enables AI-driven decision-
+making. 
+o 
+Gained exposure to training and evaluating machine learning models, including understanding how algorithms improve 
+predictive accuracy. 
+Laboratory & Technical Support Assistant (Part-Time) | University of Hafr AlBatin  
+ 
+          10/2024 – 05/2025 
+o 
+Monitored laboratory equipment to detect malfunctions and identify defective parts, ensuring smooth operation. 
+o 
+Supported the organization and execution of college events, including hackathons, competitions, and student activities. 
+PROJECTS 
+Graduation Project – Smart Health Predictor 
+o 
+Developed a Flask-based web application integrating machine learning models (Random Forest, Logistic Regression, 
+Decision Tree) to predict diabetes, heart disease, and breast cancer risk with up to 95% accuracy. 
+o 
+Applied data preprocessing techniques (KNN imputation, one-hot encoding, outlier handling) and implemented 
+automated retraining, enabling a scalable, user-friendly health prediction dashboard. 
+ Graduation Project | Bidaya – AI Interview Platform 
+o 
+Built a Full-Stack AI-powered interview simulation platform leveraging LLMs (GPT-4o), Flask-based REST APIs, 
+and a modern React/Vite frontend. 
+o 
+Integrated AI-driven job-role adaptation with speech-to-text and text-to-speech (Whisper, TTS), supporting Arabic and 
+English interactions. 
+COURSES & CERTIFICATES 
+Data Science & Artificial Intelligence Bootcamp – Tuwaiq Academy                                                10/2025 – 12/2025 
+o 
+Performed full data exploration and manipulation using Python, applying EDA techniques to extract meaningful 
+insights. 
+o 
+Applied core statistical methods, probability concepts, and matrix operations to strengthen analytical accuracy and 
+model foundations. 
+o 
+Developed and optimized predictive machine learning models (regression & classification), ensuring strong 
+performance and reliable decision-making. 
+o 
+Built and refined deep learning neural networks using Keras/TensorFlow, improving model accuracy and 
+generalization. 
+o 
+Processed and structured language data using advanced NLP techniques, including text preprocessing, tokenization, 
+and word embeddings. 
+INVOLVMENT 
+Member | Student Club | College of Computer Science and Engineering . 

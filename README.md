@@ -20,4 +20,10 @@
 
 ## To run this code:
 
-- uv run python run_pipline.py
+1. Install dependencies:
+
+- uv sync
+
+2. Run Streamlit:
+
+- uv run streamlit run app.py

@@ -1,0 +1,43 @@
+{
+  "job_title": "AI & Automation Specialist",
+  "seniority_level": null,
+  "required": {
+    "skills": [
+      "ai tools",
+      "prompt engineering",
+      "workflow automation",
+      "business process optimization",
+      "communication",
+      "problem-solving"
+    ],
+    "tools": [
+      "n8n"
+    ],
+    "domain_knowledge": [],
+    "min_years_exp": null,
+    "education_level": null,
+    "degree_fields": [],
+    "languages": []
+  },
+  "preferred": {
+    "skills": [],
+    "tools": [],
+    "certifications": [],
+    "industry_exp": []
+  },
+  "responsibilities": [
+    "design and optimize AI prompts for business use cases",
+    "build and manage automation workflows using n8n",
+    "integrate AI tools with business platforms and systems",
+    "develop reusable automation templates and workflows for teams",
+    "train teams on how to effectively use AI tools and automation systems",
+    "continuously improve workflows based on business and operational needs"
+  ],
+  "keywords": [
+    "AI",
+    "Automation",
+    "n8n",
+    "prompt engineering",
+    "workflow optimization"
+  ]
+}
