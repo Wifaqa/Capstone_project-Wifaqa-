@@ -1,0 +1,206 @@
+[
+  {
+    "candidate_id": "cv3",
+    "candidate_name": "Abdullah Al-Mutairi",
+    "fit_score": 47.0,
+    "score_breakdown": {
+      "required_skills": 32.0,
+      "preferred_skills": 0,
+      "domain_knowledge": 0.0,
+      "education": 15,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "troubleshooting hardware and software issues",
+      "problem-solving",
+      "communication",
+      "teamwork"
+    ],
+    "missing_required_skills": [
+      "attention to detail"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "education_match": {
+      "level_match": true,
+      "field_match": false
+    },
+    "domain_knowledge": {
+      "matched": [],
+      "missing": [
+        "computer networks",
+        "operating systems",
+        "software applications"
+      ]
+    },
+    "explanation": "- **Fit Score: 47.0**  \n  - **Matched Required Skills (4/5):**  \n    - Troubleshooting hardware/software issues  \n    - Problem-solving  \n    - Communication  \n    - Teamwork  \n  - **Missing Required Skill:**  \n    - Attention to detail  \n  - **No Preferred Skills Matched**  \n  - **Domain Knowledge Gaps:**  \n    - Computer networks  \n    - Operating systems  \n    - Software applications  \n  - **Education Mismatch:**  \n    - Field of study not aligned with job requirements  \n  - **Experience Mismatch:**  \n    - No prior experience (though none required)",
+    "evidence": [
+      "Provided IT support services, including troubleshooting technical issues, assisting users, and supporting day-to-day system operations within the IT department.",
+      "Skills: python, r, sql, html, css, pandas, numpy, scikit-learn, matplotlib, scipy, flask, ggplot2, pyspark, tensorflow, pytorch, apache spark, power bi, tableau, ms excel, ms access, ms powerpoint, mysql, mongodb, jupyter notebook, pycharm, visual studio code, google colab, problem solving, time management, communication, teamwork, critical thinking, adaptability, arabic, english",
+      "Assisted in database management and data handling using Microsoft Access, supporting data center operations and maintaining accurate data records."
+    ]
+  },
+  {
+    "candidate_id": "cv5",
+    "candidate_name": "Abdulrahman Salim Saud",
+    "fit_score": 47.0,
+    "score_breakdown": {
+      "required_skills": 32.0,
+      "preferred_skills": 0,
+      "domain_knowledge": 0.0,
+      "education": 15,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "troubleshooting hardware and software issues",
+      "problem-solving",
+      "communication",
+      "teamwork"
+    ],
+    "missing_required_skills": [
+      "attention to detail"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "education_match": {
+      "level_match": true,
+      "field_match": true
+    },
+    "domain_knowledge": {
+      "matched": [],
+      "missing": [
+        "computer networks",
+        "operating systems",
+        "software applications"
+      ]
+    },
+    "explanation": "- **Fit score: 47.0** (below average)  \n\n**Reasons for the score:**  \n- **Matched required skills:** Troubleshooting, problem-solving, communication, teamwork.  \n- **Missing required skill:** Attention to detail.  \n- **No preferred skills matched.**  \n- **No domain knowledge matched** (missing: computer networks, operating systems, software applications).  \n- **Education matches** (level and field).  \n- **Experience mismatch** (candidate has none, but none was required—this may indicate a neutral or slightly negative impact).  \n\n**Key gaps:** Missing domain knowledge and one required skill.",
+    "evidence": [
+      "Provided technical support and troubleshooting, improving system efficiency and reducing downtime.",
+      "Installed, configured, and maintained computer systems, networks, and software for faculty and staff.",
+      "Skills: python, r, sql, html, css, pandas, numpy, scikit-learn, matplotlib, flask, ggplot2, pyspark, power bi, excel, powerpoint, mysql, tableau, jupyter notebook, pycharm, visual studio code, problem solving, time management, communication, public speaking, social media creation, arabic, english"
+    ]
+  },
+  {
+    "candidate_id": "cv4",
+    "candidate_name": "KHALID AL-KHALDI",
+    "fit_score": 47.0,
+    "score_breakdown": {
+      "required_skills": 32.0,
+      "preferred_skills": 0,
+      "domain_knowledge": 0.0,
+      "education": 15,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "troubleshooting hardware and software issues",
+      "problem-solving",
+      "communication",
+      "teamwork"
+    ],
+    "missing_required_skills": [
+      "attention to detail"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "education_match": {
+      "level_match": true,
+      "field_match": false
+    },
+    "domain_knowledge": {
+      "matched": [],
+      "missing": [
+        "computer networks",
+        "operating systems",
+        "software applications"
+      ]
+    },
+    "explanation": "- **Required skills matched**: Troubleshooting hardware and software issues, problem-solving, communication, teamwork.  \n- **Required skills missing**: Attention to detail.  \n- **Preferred skills matched**: None.  \n- **Domain knowledge matched**: None.  \n- **Domain knowledge missing**: Computer networks, operating systems, software applications.  \n- **Education level match**: Yes.  \n- **Education field match**: No.  \n- **Experience match**: No.  \n- **Final fit score**: 47.0 reflects partial alignment with job requirements.",
+    "evidence": [
+      "Provided technical support and troubleshooting for internal IT systems and infrastructure tools.",
+      "Performed routine system checks and basic network diagnostics under supervision.",
+      "Skills: python, r, sql, html, pandas, numpy, scikit-learn, matplotlib, seaborn, tableau, power bi, supervised learning, unsupervised learning, model training, model evaluation, apache spark, hadoop, microsoft azure, problem solving, communication, team collaboration, time management, leadership, self-learning"
+    ]
+  },
+  {
+    "candidate_id": "cv6",
+    "candidate_name": "Saleh Al-Anazi",
+    "fit_score": 24.0,
+    "score_breakdown": {
+      "required_skills": 24.0,
+      "preferred_skills": 0,
+      "domain_knowledge": 0.0,
+      "education": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "troubleshooting hardware and software issues",
+      "problem-solving",
+      "teamwork"
+    ],
+    "missing_required_skills": [
+      "attention to detail",
+      "communication"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "education_match": {
+      "level_match": false,
+      "field_match": false
+    },
+    "domain_knowledge": {
+      "matched": [],
+      "missing": [
+        "computer networks",
+        "operating systems",
+        "software applications"
+      ]
+    },
+    "explanation": "- **Required skills matched**: Troubleshooting hardware and software issues, problem-solving, teamwork.  \n- **Required skills missing**: Attention to detail, communication.  \n- **Preferred skills matched**: None.  \n- **Domain knowledge matched**: None.  \n- **Domain knowledge missing**: Computer networks, operating systems, software applications.  \n- **Education level match**: No.  \n- **Education field match**: No.  \n- **Experience match**: No.  \n- **Final fit score**: 24.0 reflects partial alignment with required skills but significant gaps in domain knowledge, education, and experience.",
+    "evidence": [
+      "IT Operations Technician at Ninety Workshop",
+      "System Optimization & Security: Ensured data integrity through backup and recovery solutions while enhancing system efficiency.",
+      "Automated Client Report Management: Designed and implemented an automated system for managing client reports, streamlining data handling and retrieval."
+    ]
+  },
+  {
+    "candidate_id": "cv7",
+    "candidate_name": "Faisal Balkhair",
+    "fit_score": 15.0,
+    "score_breakdown": {
+      "required_skills": 0.0,
+      "preferred_skills": 0,
+      "domain_knowledge": 0.0,
+      "education": 15,
+      "experience": 0
+    },
+    "matched_required_skills": [],
+    "missing_required_skills": [
+      "troubleshooting hardware and software issues",
+      "problem-solving",
+      "attention to detail",
+      "communication",
+      "teamwork"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "education_match": {
+      "level_match": true,
+      "field_match": true
+    },
+    "domain_knowledge": {
+      "matched": [],
+      "missing": [
+        "computer networks",
+        "operating systems",
+        "software applications"
+      ]
+    },
+    "explanation": "- **Required skills missing**: Candidate lacks all essential skills ('troubleshooting hardware and software issues', 'problem-solving', 'attention to detail', 'communication', 'teamwork').  \n- **Domain knowledge missing**: Candidate lacks key domain knowledge ('computer networks', 'operating systems', 'software applications').  \n- **Experience mismatch**: Candidate has no years of experience, and the role requires none, but the match is still marked as False.  \n- **Education match**: Education level and field match the requirements.  \n- **No preferred or required skills matched**: Candidate did not meet any preferred or required skills.  \n- **Final fit score**: Reflects low alignment with job requirements.",
+    "evidence": [
+      "Assisted in maintaining and troubleshooting networking systems to ensure smooth IT operations.",
+      "Collaborated with IT team members to complete projects across multiple technical areas.",
+      "Supported programming tasks, including writing and testing code for internal applications."
+    ]
+  }
+]

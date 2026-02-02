@@ -21,10 +21,13 @@ def retrieve_evidence(
 
     index_dir = session_dir / "index"
 
-    chroma_client = chromadb.Client(
-        chromadb.config.Settings(
-            persist_directory=str(index_dir)
-        )
+    # chroma_client = chromadb.Client(
+    #     chromadb.config.Settings(
+    #         persist_directory=str(index_dir)
+    #     )
+    # )
+    chroma_client = chromadb.PersistentClient(
+        path=str(index_dir)
     )
 
     collection = chroma_client.get_collection(name="resumes")

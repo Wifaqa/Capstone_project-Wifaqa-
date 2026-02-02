@@ -1,0 +1,136 @@
+{
+    "full_name": "Abdullah Al-Mutairi",
+    "contact_info": {
+        "email": "a.jaberalmutairi@gmail.com",
+        "phone": "+966507789814",
+        "linkedin": null,
+        "location": "Riyadh, Saudi Arabia"
+    },
+    "summary": "Data Science graduate with hands-on experience in data analysis, big data processing, and system development through academic projects and cooperative training. Skilled in transforming raw data into actionable insights, building scalable data workflows, and applying analytical and machine learning concepts to solve real-world problems. Experienced in working with large datasets, databases, and cross-functional teams, with a strong foundation in problem-solving, data quality, and continuous learning.",
+    "years_of_experience": null,
+    "experiences": [
+        {
+            "title": "Data & IT Support Trainee",
+            "company": "Saudi Electricity Company (SEC)",
+            "location": "Saudi Arabia",
+            "start_date": "06/2024",
+            "end_date": "08/2024",
+            "bullets": [
+                "Conducted data cleaning, analysis, and reporting using Microsoft Excel, supporting operational and administrative decision-making.",
+                "Assisted in database management and data handling using Microsoft Access, supporting data center operations and maintaining accurate data records.",
+                "Provided IT support services, including troubleshooting technical issues, assisting users, and supporting day-to-day system operations within the IT department."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Data Science",
+            "university": "College of Computer Science and Engineering, University of Hafr Al-Batin",
+            "start_date": "08/2020",
+            "end_date": "12/2025",
+            "gpa": null
+        }
+    ],
+    "certifications": [],
+    "projects": [
+        {
+            "title": "Classroom Booking System",
+            "description": "Designed and developed an automated classroom booking system that improved scheduling efficiency and eliminated booking conflicts through robust validation and logic handling.",
+            "bullets": [
+                "Implemented a structured system architecture integrating user authentication, session management, booking history tracking, and automated handling of expired reservations.",
+                "Enhanced system accessibility and usability by supporting bilingual operation and ensuring accurate time-based booking logic across different user scenarios."
+            ],
+            "tools": []
+        },
+        {
+            "title": "Crime Data Analytics",
+            "description": "Analyzed a large-scale crime dataset with millions of records by loading and processing the data using Apache Spark, performing data cleaning, handling missing values, and removing outliers to ensure data quality.",
+            "bullets": [
+                "Conducted scalable data analysis using Spark's distributed processing and RDD-based operations to identify crime patterns, trends, and relationships across multiple years.",
+                "Documented the end-to-end analytical workflow and findings in Jupyter Notebook, addressing performance and memory constraints while ensuring reproducibility and clear presentation of insights."
+            ],
+            "tools": []
+        }
+    ],
+    "other_sections": [
+        "VOLUNTEERING",
+        "LANGUAGES"
+    ],
+    "skills": [
+        "Programming: Python, R, SQL, HTML, CSS",
+        "Frameworks: Pandas, NumPy, Scikit-learn, Matplotlib, SciPy, Flask, Ggplot2, PySpark, TensorFlow, PyTorch, Apache Spark",
+        "Tools: Power BI, Tableau, MS Excel, MS Access, MS PowerPoint, MySQL, MongoDB",
+        "Platforms: Jupyter Notebook, PyCharm, Visual Studio Code, Google Colab",
+        "Soft Skills: Problem Solving, Time Management, Communication, Teamwork, Critical Thinking, Adaptability"
+    ],
+    "normalized_skills": [
+        "python",
+        "r",
+        "sql",
+        "html",
+        "css",
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "matplotlib",
+        "scipy",
+        "flask",
+        "ggplot2",
+        "pyspark",
+        "tensorflow",
+        "pytorch",
+        "apache spark",
+        "power bi",
+        "tableau",
+        "ms excel",
+        "ms access",
+        "ms powerpoint",
+        "mysql",
+        "mongodb",
+        "jupyter notebook",
+        "pycharm",
+        "visual studio code",
+        "google colab",
+        "problem solving",
+        "time management",
+        "communication",
+        "teamwork",
+        "critical thinking",
+        "adaptability"
+    ],
+    "deterministic_normalized_skills": [
+        "python",
+        "r",
+        "sql",
+        "html",
+        "css",
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "matplotlib",
+        "scipy",
+        "flask",
+        "ggplot2",
+        "pyspark",
+        "tensorflow",
+        "pytorch",
+        "apache spark",
+        "power bi",
+        "tableau",
+        "ms excel",
+        "ms access",
+        "ms powerpoint",
+        "mysql",
+        "mongodb",
+        "jupyter notebook",
+        "pycharm",
+        "visual studio code",
+        "google colab",
+        "problem solving",
+        "time management",
+        "communication",
+        "teamwork",
+        "critical thinking",
+        "adaptability"
+    ]
+}

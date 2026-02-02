@@ -1,0 +1,7 @@
+{
+    "error": "Invalid JSON",
+    "raw_output": "{\n  \"full_name\": \"Khalid Alkhaldi\",\n  \"contact_info\": {\n    \"email\": \"alkaldy30.a@gmail.com\",\n    \"phone\": \"+966550246173\",\n    \"linkedin\": \"LinkedIn\",\n    \"location\": \"Riyadh\"\n  },\n  \"summary\": null,\n  \"years_of_experience\": null,\n  \"experiences\": [\n    {\n      \"title\": \"Intern\",\n      \"company\": \"Saudi Authority for Intellectual Property\",\n      \"location\": \"Riyadh\",\n      \"start_date\": \"06/2024",
+    "skills": [],
+    "normalized_skills": [],
+    "deterministic_normalized_skills": []
+}

@@ -8,6 +8,7 @@ from src.matching.semantic_retriever import retrieve_evidence
 
 
 def run_matching(session_dir: Path, top_k: int = 10) -> Path:
+    
     """
     Run rule-based matching + fit score + explanation
     Saves ranking_results.json inside session/outputs
@@ -17,6 +18,14 @@ def run_matching(session_dir: Path, top_k: int = 10) -> Path:
     jd_path = session_dir / "job_description.json"
     output_dir = session_dir / "outputs"
     output_dir.mkdir(parents=True, exist_ok=True)
+
+    resume_files = list(resumes_dir.glob("*.json"))
+
+    print("DEBUG: resumes_dir =", resumes_dir)
+    print("DEBUG: total resumes found =", len(resume_files))
+    print("DEBUG: resume files =")
+    for f in resume_files:
+        print(" -", f.name)
 
     # Load Job Description JSON
     jd = json.loads(jd_path.read_text(encoding="utf-8"))
@@ -35,12 +44,15 @@ def run_matching(session_dir: Path, top_k: int = 10) -> Path:
         score_result = calculate_fit_score(match_result, jd)
 
         # 3) Semantic evidence from CV
-        evidence = retrieve_evidence(
-            session_dir=session_dir,
-            query=" ".join(jd["required"].get("skills", [])),
-            candidate_id=resume_file.stem,
-            top_k=3
-        )
+        try:
+            evidence = retrieve_evidence(
+                session_dir=session_dir,
+                query=" ".join(jd["required"].get("skills", [])),
+                candidate_id=resume_file.stem,
+                top_k=3
+            )
+        except Exception:
+            evidence = {"candidate_id": resume_file.stem, "evidence": []}
 
         # 4) Explanation (LLM)
         explanation = explain_score(
@@ -50,20 +62,41 @@ def run_matching(session_dir: Path, top_k: int = 10) -> Path:
             score_result=score_result
         )
 
+        print("DEBUG: processing", resume_file.name)
+        print("DEBUG: evidence =", evidence)
+
+        # 5) Collect result
         # 5) Collect result
         results.append({
             "candidate_id": resume_file.stem,
             "candidate_name": candidate_name,
+
             "fit_score": score_result["fit_score"],
             "score_breakdown": score_result["score_breakdown"],
 
+            # Skills
             "matched_required_skills": match_result["required_skills"]["matched"],
             "missing_required_skills": match_result["required_skills"]["missing"],
             "matched_preferred_skills": match_result["preferred_skills"]["matched"],
+
+            # Experience
             "experience_match": match_result["experience"]["match"],
 
+            # 🆕 Education
+            "education_match": {
+                "level_match": match_result["education"]["level_match"],
+                "field_match": match_result["education"]["field_match"],
+            },
+
+            # 🆕 Domain knowledge
+            "domain_knowledge": {
+                "matched": match_result["domain_knowledge"]["matched"],
+                "missing": match_result["domain_knowledge"]["missing"]
+            },
+
+            # Explanation + Evidence
             "explanation": explanation,
-            "evidence": evidence["evidence"]
+            "evidence": evidence.get("evidence", [])
         })
 
     # Sort by score
@@ -75,5 +108,8 @@ def run_matching(session_dir: Path, top_k: int = 10) -> Path:
         json.dumps(results, indent=2, ensure_ascii=False),
         encoding="utf-8"
     )
+    print("DEBUG FINAL RESULTS")
+    for r in results:
+        print(r["candidate_name"], r["fit_score"], len(r.get("evidence", [])))
 
     return output_path

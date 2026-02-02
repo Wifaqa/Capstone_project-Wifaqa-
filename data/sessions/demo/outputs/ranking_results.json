@@ -1,0 +1,320 @@
+[
+  {
+    "candidate_id": "cv3",
+    "candidate_name": "Abdullah Al-Mutairi",
+    "fit_score": 42.0,
+    "score_breakdown": {
+      "required_skills": 42.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "communication skills",
+      "business problem solving",
+      "python programming",
+      "r programming",
+      "predictive modeling",
+      "data wrangling"
+    ],
+    "missing_required_skills": [
+      "data visualization",
+      "data analysis",
+      "statistical analysis"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Matched required skills**: Abdullah has 7 out of 10 required skills, including machine learning, Python programming, and predictive modeling.  \n- **Missing required skills**: Lacks 3 key skills: data visualization, data analysis, and statistical analysis.  \n- **No preferred skills matched**: None of the preferred skills were matched.  \n- **Experience mismatch**: No years of experience provided, though none were required.  \n- **Fit score**: 42.0 reflects partial alignment with required skills and no preferred skills.",
+    "evidence": [
+      "Skills: python, r, sql, html, css, pandas, numpy, scikit-learn, matplotlib, scipy, flask, ggplot2, pyspark, tensorflow, pytorch, apache spark, power bi, tableau, ms excel, ms access, ms powerpoint, mysql, mongodb, jupyter notebook, pycharm, visual studio code, google colab, problem solving, time management, communication, teamwork, critical thinking, adaptability",
+      "Data Science graduate with hands-on experience in data analysis, big data processing, and system development through academic projects and cooperative training. Skilled in transforming raw data into actionable insights, building scalable data workflows, and applying analytical and machine learning concepts to solve real-world problems. Experienced in working with large datasets, databases, and cross-functional teams, with a strong foundation in problem-solving, data quality, and continuous learning.",
+      "Conducted scalable data analysis using Spark's distributed processing and RDD-based operations to identify crime patterns, trends, and relationships across multiple years."
+    ]
+  },
+  {
+    "candidate_id": "cv2",
+    "candidate_name": "Abdulrahman Alshatri",
+    "fit_score": 42.0,
+    "score_breakdown": {
+      "required_skills": 42.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "data analysis",
+      "business problem solving",
+      "python programming",
+      "r programming",
+      "predictive modeling",
+      "data wrangling"
+    ],
+    "missing_required_skills": [
+      "communication skills",
+      "data visualization",
+      "statistical analysis"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Matched required skills**: Abdulrahman has 7 out of 10 required skills, contributing positively to the score.  \n- **Missing required skills**: Lacks 3 key skills (communication, data visualization, statistical analysis), lowering the score.  \n- **Matched preferred skills**: No preferred skills matched, no additional points added.  \n- **Experience match**: No experience provided, though no minimum was required, so no impact on score.  \n- **Overall**: Partial alignment with required skills but significant gaps in key areas resulted in a moderate fit score of 42.0.",
+    "evidence": [
+      "Skills: powerbi, kpi tracking, dashboards, business reports, data cleaning, data transformation, exploratory data analysis, eda, python, sql, r, airtable, n8n, zapier, research skill, team work, problem solving, decision making",
+      "Data Science graduate with a strong foundation in data analysis, SQL, and data visualization. Experienced in building Power BI dashboards, analyzing business data, and transforming raw data into actionable insights to support data-driven decision making.",
+      "Conducting data analysis to support decision-making and operational improvements."
+    ]
+  },
+  {
+    "candidate_id": "cv5",
+    "candidate_name": "Abdulrahman Salim Saud",
+    "fit_score": 42.0,
+    "score_breakdown": {
+      "required_skills": 42.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "communication skills",
+      "business problem solving",
+      "python programming",
+      "r programming",
+      "predictive modeling",
+      "data wrangling"
+    ],
+    "missing_required_skills": [
+      "data visualization",
+      "data analysis",
+      "statistical analysis"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Matched required skills**: Candidate has 7 out of 10 required skills (e.g., machine learning, Python programming).  \n- **Missing required skills**: Lacks 3 critical skills (data visualization, data analysis, statistical analysis).  \n- **Matched preferred skills**: No preferred skills matched.  \n- **Experience match**: No experience provided, though none was required.  \n- **Fit score**: 42.0 reflects partial alignment with required skills and no preferred skills.",
+    "evidence": [
+      "Skills: python, r, sql, html, css, pandas, numpy, scikit-learn, matplotlib, flask, ggplot2, pyspark, power bi, excel, powerpoint, mysql, tableau, jupyter notebook, pycharm, visual studio code, problem solving, time management, communication, public speaking, social media creation, arabic, english",
+      "Analyzed and visualized datasets using Python to support academic research and institutional reporting.",
+      "Big data Project"
+    ]
+  },
+  {
+    "candidate_id": "cv4",
+    "candidate_name": "KHALID AL-KHALDI",
+    "fit_score": 42.0,
+    "score_breakdown": {
+      "required_skills": 42.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "communication skills",
+      "business problem solving",
+      "python programming",
+      "r programming",
+      "predictive modeling",
+      "data wrangling"
+    ],
+    "missing_required_skills": [
+      "data visualization",
+      "data analysis",
+      "statistical analysis"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Fit score: 42.0** indicates partial alignment with job requirements.  \n- **Matched required skills**: Candidate possesses 7 out of 10 required skills (e.g., machine learning, Python programming).  \n- **Missing required skills**: Lacks 3 critical skills (data visualization, data analysis, statistical analysis).  \n- **Matched preferred skills**: None of the preferred skills were matched.  \n- **Experience match**: No information on candidate’s years of experience, leading to a mismatch.  \n- **Overall**: Moderate fit due to missing key skills and lack of experience details.",
+    "evidence": [
+      "Skills: python, r, sql, html, pandas, numpy, scikit-learn, matplotlib, seaborn, tableau, power bi, supervised learning, unsupervised learning, model training, model evaluation, apache spark, hadoop, microsoft azure, problem solving, communication, team collaboration, time management, leadership, self-learning",
+      "Data Science graduate passionate about building intelligent, data-driven solutions. Experienced in transforming real-world data into insights and developing predictive models to support smart decision-making. Focused on applying AI and analytics to drive innovation, enhance efficiency, and contribute to digital transformation goals.",
+      "Developed a full-stack AI application to predict the risk of heart disease, diabetes, and breast cancer using custom-trained machine learning models. Integrated dynamic user input forms, model-based validation, and auto-retraining logic triggered after every 50 predictions."
+    ]
+  },
+  {
+    "candidate_id": "cv6",
+    "candidate_name": "Saleh Al-Anazi",
+    "fit_score": 42.0,
+    "score_breakdown": {
+      "required_skills": 42.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "data visualization",
+      "business problem solving",
+      "python programming",
+      "r programming",
+      "predictive modeling",
+      "data wrangling"
+    ],
+    "missing_required_skills": [
+      "communication skills",
+      "data analysis",
+      "statistical analysis"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Fit score: 42.0** reflects partial alignment with the job requirements.  \n- **Matched required skills**: Candidate has 7 out of 10 required skills, including 'machine learning' and 'python programming'.  \n- **Missing required skills**: Lacks 3 critical skills: 'communication skills', 'data analysis', and 'statistical analysis'.  \n- **Matched preferred skills**: None of the preferred skills were matched.  \n- **Experience match**: False, as candidate’s years of experience were not provided or did not meet unspecified minimum requirements.",
+    "evidence": [
+      "Skills: python, r, data management, data analytics, data visualization, web development, flask",
+      "Senior Data Scientist with a passion for innovating and creating data-driven solutions. Skilled in transforming complex data into actionable insights and developing AI-powered models to solve real-world problems. Focused on leveraging data science to generate new ideas, optimize decision-making, and drive impactful change.",
+      "Data Visualization & Analysis: Developed interactive dashboards using Power BI to analyze and visualize client data, enabling data-driven decision-making."
+    ]
+  },
+  {
+    "candidate_id": "cv7",
+    "candidate_name": "Faisal Balkhair",
+    "fit_score": 24.0,
+    "score_breakdown": {
+      "required_skills": 24.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "data visualization",
+      "data analysis",
+      "python programming"
+    ],
+    "missing_required_skills": [
+      "communication skills",
+      "business problem solving",
+      "r programming",
+      "predictive modeling",
+      "data wrangling",
+      "statistical analysis"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Low fit score (24.0)** due to missing **6 required skills** (e.g., communication, business problem solving, R programming).  \n- Matched only **4 required skills** (e.g., machine learning, Python).  \n- **No preferred skills** matched.  \n- **Experience mismatch**: Candidate lacks specified years of experience (if any).  \n- **Key gaps**: Predictive modeling, data wrangling, statistical analysis.",
+    "evidence": [
+      "Skills: java, python, data analysis, data visualization, sql, database management, git, vs code, pandas, pytorch, machine learning, deep learning, html, css",
+      "Computer Science graduate with practical experience in programming, web development, and IT operations. Skilled in Python, SQL, and data handling with a solid understanding of software engineering principles. Passionate about learning and applying artificial intelligence and machine learning concepts to develop efficient and innovative solutions.",
+      "Supported programming tasks, including writing and testing code for internal applications."
+    ]
+  },
+  {
+    "candidate_id": "cv9",
+    "candidate_name": "Mohamed Saad",
+    "fit_score": 18.0,
+    "score_breakdown": {
+      "required_skills": 18.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "machine learning",
+      "data analysis",
+      "python programming"
+    ],
+    "missing_required_skills": [
+      "communication skills",
+      "data visualization",
+      "business problem solving",
+      "r programming",
+      "predictive modeling",
+      "data wrangling",
+      "statistical analysis"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Low fit score (18.0)** due to missing **7 required skills** (e.g., communication, data visualization, R programming).  \n- Matched only **3 required skills** (machine learning, data analysis, Python).  \n- **No preferred skills** matched.  \n- **No experience data** provided, but no minimum required.  \n- **Key gaps**: Business problem-solving, predictive modeling, statistical analysis.",
+    "evidence": [
+      "Skills: microsoft office programs, ability to deal with big data, crisis management, risk management, python, advanced google analytics, human resources management, sql, ai, machine learning, data analysis, customer service, cisco technologies professional seller setup, analytical skills, big data, introduction to cyber security, html, computer applications, predictive analysis",
+      "Diabetes represents a major public health challenge and Machine learning techniques provide a promising way to predict diabetes risk based on patient characteristics and various biomarkers and in this project we used Pima Indians data and some libraries like Pandas, Numpy, Seaborn, Matplotlib to deal with these problems and we use some Model like Logistic Regression, SVC, Random Forest Classifier, Train and test Data, Confusion matrix the study contributes to the advancement of predictive analytics in diabetes management and prevention 2030.",
+      "A recent graduate of Data Science, my ambition is to join a professional work environment that enables me to develop my scientific and practical skills to contribute to the development of the workplace in which I will work, and to be an effective and productive member to serve my community, advance my country, and contribute to improving and developing work to achieve the goals of the Kingdom s Vision 2030."
+    ]
+  },
+  {
+    "candidate_id": "Hanan ZainAldeen-cv",
+    "candidate_name": "Hanan Ibrahim ZainAldeen",
+    "fit_score": 12.0,
+    "score_breakdown": {
+      "required_skills": 12.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "communication skills",
+      "python programming"
+    ],
+    "missing_required_skills": [
+      "machine learning",
+      "data visualization",
+      "data analysis",
+      "business problem solving",
+      "r programming",
+      "predictive modeling",
+      "data wrangling",
+      "statistical analysis"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Fit Score: 12.0** (low due to major skill gaps).  \n- **Matched Required Skills**: Only 2 out of 10 ('communication skills', 'python programming').  \n- **Missing Required Skills**: 8 critical skills (e.g., 'machine learning', 'data analysis').  \n- **No Preferred Skills Matched**.  \n- **Experience Mismatch**: Missing experience details (though no minimum was required).  \n- **No disqualifying rules applied** (score reflects skill gaps only).",
+    "evidence": [
+      "Skills: application design, web design, coding, microsoft office, development, design, communication skill, problem-solving, creativity, time management, eye for detail, html, php, javascript, javafx, c++, sql, css, python",
+      "I have hands-on experience in both front-end and back-end development, with a passion for web and app development and designing . I m eager to contribute my diverse technical skills to impactful projects while embracing continuous learning in the ever-evolving tech industry.",
+      "at DRC company"
+    ]
+  },
+  {
+    "candidate_id": "13385306",
+    "candidate_name": "13385306",
+    "fit_score": 12.0,
+    "score_breakdown": {
+      "required_skills": 12.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "python programming",
+      "r programming"
+    ],
+    "missing_required_skills": [
+      "machine learning",
+      "communication skills",
+      "data visualization",
+      "data analysis",
+      "business problem solving",
+      "predictive modeling",
+      "data wrangling",
+      "statistical analysis"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- **Matched required skills**: Only 2 out of 10 required skills matched ('python programming', 'r programming').  \n- **Missing required skills**: 8 essential skills missing, including 'machine learning', 'communication skills', and 'data analysis'.  \n- **Matched preferred skills**: No preferred skills matched.  \n- **Experience match**: No experience provided, and no minimum years required, but marked as a mismatch.  \n- **Low fit score**: Significant gaps in required skills and no preferred skills led to a low score of 12.0.",
+    "evidence": [
+      "Skills: .net, asp.net, vb.net, adabas, ado, agile, application development, asp, agency, banking, banyan, billing, business analysis, business intelligence, cardiology, client server, hardware, data management, database administration, database design, delivery, desktops, xml, help desk support, help desk, iis, information technology, it strategy, leadership, team leadership, mainframe, c#, office, sharepoint, natural, network administrator, network administration, network support, network, novell, object modeling, oracle, oracle dba, developer, pl/sql, oracle sql, phone system, programming, project management, requirements analysis, research, sdlc, software development, microsoft sql server, sql, sql server, tableau, phone, web applications, year 2000",
+      "Applying technology and workflow solutions to business challenges is exciting for me because I love to learn and apply new lessons and approaches to support and enhance the organization to achieve its goals and mission.",
+      "I recommended Tableau as the authority's visualization business intelligence tool."
+    ]
+  },
+  {
+    "candidate_id": "13405733",
+    "candidate_name": "13405733",
+    "fit_score": 6.0,
+    "score_breakdown": {
+      "required_skills": 6.0,
+      "preferred_skills": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [
+      "python programming"
+    ],
+    "missing_required_skills": [
+      "machine learning",
+      "communication skills",
+      "data visualization",
+      "data analysis",
+      "business problem solving",
+      "r programming",
+      "predictive modeling",
+      "data wrangling",
+      "statistical analysis"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "explanation": "- Fit score of 6.0 due to partial match with required skills.  \n- Matched only 1 required skill: 'python programming'.  \n- Missing 9 required skills, including 'machine learning', 'communication skills', and 'data analysis'.  \n- No preferred skills matched.  \n- Experience match: False (candidate has no years of experience listed).",
+    "evidence": [
+      "Skills: java, python"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "job_title": "IT Tamheer",
+  "seniority_level": "junior",
+  "required": {
+    "skills": [
+      "troubleshooting",
+      "problem-solving",
+      "communication",
+      "collaboration"
+    ],
+    "tools": [],
+    "domain_knowledge": [
+      "computer networks",
+      "operating systems",
+      "software applications"
+    ],
+    "min_years_exp": null,
+    "education_level": "bachelor's degree",
+    "degree_fields": [
+      "computer science",
+      "information technology"
+    ],
+    "languages": []
+  },
+  "preferred": {
+    "skills": [],
+    "tools": [],
+    "certifications": [],
+    "industry_exp": []
+  },
+  "responsibilities": [
+    "assist in IT support tasks, including troubleshooting hardware and software issues",
+    "collaborate with the IT team on system maintenance and updates",
+    "support the implementation of new technologies and IT projects",
+    "monitor and maintain network systems, ensuring reliability and performance",
+    "participate in the testing and evaluation of new software applications",
+    "document IT processes and procedures for knowledge sharing",
+    "provide training and support to end-users on IT systems and applications",
+    "engage in team meetings and contribute to ongoing projects"
+  ],
+  "keywords": [
+    "IT",
+    "Tamheer",
+    "training",
+    "networks",
+    "software",
+    "support"
+  ]
+}

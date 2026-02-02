@@ -1,0 +1,153 @@
+{
+    "full_name": "Hanan Ibrahim ZainAldeen",
+    "contact_info": {
+        "email": "Hanan_iz@outlook.sa",
+        "phone": "+966 555151944",
+        "linkedin": null,
+        "location": null
+    },
+    "summary": "I have hands-on experience in both front-end and back-end development, with a passion for web and app development and designing . I m eager to contribute my diverse technical skills to impactful projects while embracing continuous learning in the ever-evolving tech industry.",
+    "years_of_experience": null,
+    "experiences": [
+        {
+            "title": null,
+            "company": "DRC company",
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "bullets": []
+        },
+        {
+            "title": null,
+            "company": "Working during Hajj season 1443 and 1444",
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "bullets": []
+        },
+        {
+            "title": null,
+            "company": "Working in Kidana malik during Hajj season 1446",
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "bullets": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Computer Science with Second dgree Honors",
+            "university": "UMM AL-Qura University",
+            "start_date": null,
+            "end_date": null,
+            "gpa": null
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Introduction to SQL",
+            "provider": null,
+            "start_date": null,
+            "end_date": null
+        },
+        {
+            "title": "Intermediate SQL",
+            "provider": null,
+            "start_date": null,
+            "end_date": null
+        },
+        {
+            "title": "Joining Data in SQL",
+            "provider": null,
+            "start_date": null,
+            "end_date": null
+        },
+        {
+            "title": "Birliz English courses",
+            "provider": null,
+            "start_date": null,
+            "end_date": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "Passion app",
+            "description": "Arabic scientific educational game for children",
+            "bullets": [],
+            "tools": []
+        },
+        {
+            "title": "Holla website",
+            "description": "AI-model that recognize and classify traditional Saudi clothing associated with its respective saudi regions",
+            "bullets": [],
+            "tools": []
+        }
+    ],
+    "other_sections": [
+        "Speaker on the technology exhibition of the world civil defense day",
+        "Organizer at the 5th National Conference of Saudi computer college (5th NCCC)",
+        "Achieved the 2nd Place of: 1.(King Salman Chair) Watani competition. 2.project in 3 minutes competition."
+    ],
+    "skills": [
+        "Application and web Design",
+        "Coding",
+        "Microsoft Office",
+        "Development",
+        "Design",
+        "Communication Skill",
+        "Problem-solving",
+        "Creativity",
+        "Time Management",
+        "Eye for Detail",
+        "HTML",
+        "php",
+        "JavaScript",
+        "JavaFX",
+        "C++",
+        "SQL",
+        "CSS",
+        "Python"
+    ],
+    "normalized_skills": [
+        "application design",
+        "web design",
+        "coding",
+        "microsoft office",
+        "development",
+        "design",
+        "communication skill",
+        "problem-solving",
+        "creativity",
+        "time management",
+        "eye for detail",
+        "html",
+        "php",
+        "javascript",
+        "javafx",
+        "c++",
+        "sql",
+        "css",
+        "python"
+    ],
+    "deterministic_normalized_skills": [
+        "application design",
+        "web design",
+        "coding",
+        "microsoft office",
+        "development",
+        "design",
+        "communication skill",
+        "problem-solving",
+        "creativity",
+        "time management",
+        "eye for detail",
+        "html",
+        "php",
+        "javascript",
+        "javafx",
+        "c++",
+        "sql",
+        "css",
+        "python"
+    ]
+}

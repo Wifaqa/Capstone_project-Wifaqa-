@@ -134,18 +134,30 @@ if st.button("🚀 Run Matching"):
 
     for idx, r in enumerate(results, start=1):
         with st.container():
+            # -------------------------
+            # Header
+            # -------------------------
             st.markdown(
                 f"## {idx}. {r['candidate_name']} — **{r['fit_score']}%**"
             )
 
+            # -------------------------
+            # Score Breakdown
+            # -------------------------
             st.markdown("### 🔍 Score Breakdown")
             st.json(r["score_breakdown"])
 
+            # -------------------------
+            # Explanation
+            # -------------------------
             st.markdown("### 🧠 Explanation (Why this score?)")
             st.write(r["explanation"])
 
             col1, col2 = st.columns(2)
 
+            # -------------------------
+            # Left column
+            # -------------------------
             with col1:
                 st.markdown("### ✅ Matched Required Skills")
                 st.write(r["matched_required_skills"] or "—")
@@ -153,12 +165,44 @@ if st.button("🚀 Run Matching"):
                 st.markdown("### ⭐ Matched Preferred Skills")
                 st.write(r["matched_preferred_skills"] or "—")
 
+            # -------------------------
+            # Right column
+            # -------------------------
             with col2:
                 st.markdown("### ❌ Missing Required Skills")
                 st.write(r["missing_required_skills"] or "—")
 
                 st.markdown("### ⏳ Experience Match")
                 st.write("Yes ✅" if r["experience_match"] else "No ❌")
+
+            # -------------------------
+            # Education
+            # -------------------------
+            st.markdown("### 🎓 Education Match")
+            edu = r.get("education", {})
+            if edu:
+                st.write(
+                    "Yes ✅"
+                    if (edu.get("level_match") or edu.get("field_match"))
+                    else "No ❌"
+                )
+            else:
+                st.write("—")
+
+            # -------------------------
+            # Domain Knowledge
+            # -------------------------
+            st.markdown("### 🧠 Domain Knowledge")
+
+            domain = r.get("domain_knowledge", {})
+            if domain:
+                st.markdown("**Matched:**")
+                st.write(domain.get("matched") or "—")
+
+                st.markdown("**Missing:**")
+                st.write(domain.get("missing") or "—")
+            else:
+                st.write("—")
 
             st.divider()
 

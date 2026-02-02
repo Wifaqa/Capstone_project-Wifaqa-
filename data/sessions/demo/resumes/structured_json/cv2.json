@@ -1,0 +1,77 @@
+{
+  "full_name": "Abdulrahman Alshatri",
+  "contact_info": {
+    "email": "Dsc.Abdulrahman@gmail.com",
+    "phone": "0552461651",
+    "linkedin": "linkedin.com/in/dscabdulrahman",
+    "location": "Riyadh, Saudi Arabia"
+  },
+  "summary": "Data Science graduate with a strong foundation in data analysis, SQL, and data visualization. Experienced in building Power BI dashboards, analyzing business data, and transforming raw data into actionable insights to support data-driven decision making.",
+  "years_of_experience": null,
+  "experiences": [
+    {
+      "title": "Data Scientist Intern",
+      "company": "Medura",
+      "location": "Riyadh",
+      "start_date": "2025/11",
+      "end_date": "Present",
+      "bullets": [
+        "Conducting data analysis to support decision-making and operational improvements.",
+        "Building automation workflows using Airtable, n8n, and Zapier to integrate and streamline data processes.",
+        "Developing dashboards and reports to monitor project and team performance."
+      ]
+    },
+    {
+      "title": "Data Scientist (Co-op)",
+      "company": "King Abdulaziz City for Science and Technology (KACST)",
+      "location": "Riyadh",
+      "start_date": "2024/06",
+      "end_date": "2024/08",
+      "bullets": [
+        "NLP Project(Resume Parser)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree in Data science",
+      "university": "University of Hafr Albatin",
+      "start_date": "2020",
+      "end_date": "2025",
+      "gpa": null
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "title": "Resume Parser",
+      "description": "NLP-Powered Resume Ranking System",
+      "bullets": [
+        "Enabled analytical reporting on candidate skills and job matching results.",
+        "Automated skill extraction from PDF resumes using NLP (spaCy).",
+        "Technical requirement compatibility scoring mechanism.",
+        "Structured candidate ranking outputs (CSV/TXT)."
+      ],
+      "tools": []
+    },
+    {
+      "title": "Smart Health Predictor",
+      "description": "ML Disease Prediction | Flask, Scikit-learn",
+      "bullets": [
+        "Developed 3 clinical models via Flask API.",
+        "Implemented auto-retraining (50 submissions) + KNN imputation.",
+        "Produced structured outputs to support analytical insights.",
+        "Optimized preprocessing for clinical data constraints."
+      ],
+      "tools": []
+    }
+  ],
+  "other_sections": [],
+  "skills": [
+    "Business Intelligence & Reporting: PowerBI, KPI Tracking, Dashboards, Business Reports",
+    "Data Analysis: Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA)",
+    "Programming Language: Python, SQL, R",
+    "Automation & Tools: AirTable, n8n, Zapier",
+    "Soft Skills: Research Skill, Team Work, Problem Solving, Decision Making"
+  ]
+}

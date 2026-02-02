@@ -1,0 +1,100 @@
+{
+  "full_name": "Abdulrahman Salim Saud",
+  "contact_info": {
+    "email": "abdulrahmansaud1998@outlook.com",
+    "phone": "+966538081148",
+    "linkedin": null,
+    "location": "Eastern, Saudi Arabia"
+  },
+  "summary": null,
+  "years_of_experience": null,
+  "experiences": [
+    {
+      "title": "Data Analyst Intern",
+      "company": "University of Hafr Al Batin",
+      "location": null,
+      "start_date": "Jun 2024",
+      "end_date": "Aug 2024",
+      "bullets": [
+        "Analyzed and visualized datasets using Python to support academic research and institutional reporting.",
+        "Designed interactive dashboards to track employee performance metrics."
+      ]
+    },
+    {
+      "title": "IT Assistant (Part-Time)",
+      "company": "University of Hafr Al Batin",
+      "location": null,
+      "start_date": null,
+      "end_date": "Two Academic Semesters",
+      "bullets": [
+        "Installed, configured, and maintained computer systems, networks, and software for faculty and staff.",
+        "Provided technical support and troubleshooting, improving system efficiency and reducing downtime."
+      ]
+    },
+    {
+      "title": "Instructor",
+      "company": "ALFOA Institute, Hafr Al Batin",
+      "location": null,
+      "start_date": null,
+      "end_date": null,
+      "bullets": [
+        "Delivered lectures and workshops in computer fundamentals and productivity software.",
+        "Assisted in creating curriculum content and instructional materials to enhance student learning outcomes."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor s degree From College of Computer Science & Engineering in | Data Science |",
+      "university": "University of Hafr Al Batin",
+      "start_date": "2021",
+      "end_date": "2025",
+      "gpa": "3.9 / 4.0"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Certificate data visualization by Tableau",
+      "provider": null,
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "projects": [
+    {
+      "title": "Loan Default Prediction Model",
+      "description": "Graduation Project",
+      "bullets": [
+        "Developed a machine learning model to predict loan defaults using real-world data from Lending Club.",
+        "Built and compared Decision Tree, Random Forest, and SVM models; Random Forest achieved 85%"
+      ],
+      "tools": []
+    },
+    {
+      "title": "NYC Taxi Data Analysis",
+      "description": "Big data Project",
+      "bullets": [
+        "Processed and analyzed trip data spanning from 2009 to 2024",
+        "Explored passenger behavior, seasonal trends, and fare distributions using PySpark big data frameworks."
+      ],
+      "tools": []
+    }
+  ],
+  "other_sections": [
+    "English Language Course   FAO Institute (6 months)",
+    "Making workshop in intro to Data science",
+    "Get first place in the translation Hackathon",
+    "Recommendation Letter",
+    "Head of Students club in Computer Science & Engineering",
+    "Teaching English as Part time job",
+    "Microsoft office Course   FAO Institute (6 months)"
+  ],
+  "skills": [
+    "Programming: Python, R, SQL, HTML, CSS",
+    "Frameworks: Pandas, NumPy, Scikit-learn, Matplotlib, Flask, Ggplot2, PySpark",
+    "Tools: Power BI, Excel, PowerPoint, MySQL, Tableau",
+    "Platforms: Jupyter Notebook, PyCharm, Visual Studio Code",
+    "Soft Skills: Problem Solving, Time Management, Communication, Public Speaking, Social Media Creation",
+    "Languages: Arabic and English"
+  ]
+}

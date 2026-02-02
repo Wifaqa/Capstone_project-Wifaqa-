@@ -1,0 +1,76 @@
+{
+  "full_name": "Saleh Al-Anazi",
+  "contact_info": {
+    "email": "sypor@outlook.sa",
+    "phone": "+966590300812",
+    "linkedin": "linkedin.com/in/saleh-al-anazi-118a38296",
+    "location": "Saudi Arabia"
+  },
+  "summary": "Senior Data Scientist with a passion for innovating and creating data-driven solutions. Skilled in transforming complex data into actionable insights and developing AI-powered models to solve real-world problems. Focused on leveraging data science to generate new ideas, optimize decision-making, and drive impactful change.",
+  "years_of_experience": null,
+  "experiences": [
+    {
+      "title": "President, Computer Science & Engineering Club",
+      "company": "Univesity of Hafer Albatin",
+      "location": null,
+      "start_date": "02/2024",
+      "end_date": "Present",
+      "bullets": [
+        "Managed data records and optimized club activities.",
+        "Designed event plans and analyzed performance using Power BI dashboards.",
+        "Hosted the College Activities Awards Ceremony"
+      ]
+    },
+    {
+      "title": "IT Operations Technician",
+      "company": "Ninety Workshop",
+      "location": null,
+      "start_date": "03/2022",
+      "end_date": "12/2024",
+      "bullets": [
+        "Automated Client Report Management: Designed and implemented an automated system for managing client reports, streamlining data handling and retrieval.",
+        "Data Visualization & Analysis: Developed interactive dashboards using Power BI to analyze and visualize client data, enabling data-driven decision-making.",
+        "System Optimization & Security: Ensured data integrity through backup and recovery solutions while enhancing system efficiency."
+      ]
+    }
+  ],
+  "education": [],
+  "certifications": [],
+  "projects": [
+    {
+      "title": "Emergency Wait Time Optimization",
+      "description": null,
+      "bullets": [
+        "Collected and analyzed emergency case data from open sources, covering records from 2019 to 2022.",
+        "Developed an AI-powered model using machine learning to predict emergency waiting times with improved accuracy.",
+        "Built an interactive platform with Python, Flask, and Gradient Boosting, providing real-time predictions based on day, month, and time period.",
+        "Received a recommendation for outstanding performance and innovative approach in implementing data-driven emergency predictions."
+      ],
+      "tools": []
+    },
+    {
+      "title": "Urban Aesthetic Improvement Project",
+      "description": null,
+      "bullets": [
+        "Developed an automation system for managing wall and door files, enhancing campus aesthetics.",
+        "Implemented a modern and organized approach to document placement, improving visual appeal and accessibility.",
+        "Awarded locally within and beyond my university",
+        "Top academic project (2024) among Saudi student entries.",
+        "(Current project competing in 2025.)"
+      ],
+      "tools": []
+    }
+  ],
+  "other_sections": [
+    "Developed university projects, earning recommendations for innovation.",
+    "1st place winner in the Translation & Video Editing Hackathon"
+  ],
+  "skills": [
+    "Python",
+    "R",
+    "Data Management",
+    "Data Analytics",
+    "Data Visualization",
+    "Web Development with Flask"
+  ]
+}

@@ -1,0 +1,151 @@
+{
+    "full_name": "KHALID AL-KHALDI",
+    "contact_info": {
+        "email": "alkaldy30.a@gmail.com",
+        "phone": "+966550246173",
+        "linkedin": "linkedin",
+        "location": "Saudi Arabia"
+    },
+    "summary": "Data Science graduate passionate about building intelligent, data-driven solutions. Experienced in transforming real-world data into insights and developing predictive models to support smart decision-making. Focused on applying AI and analytics to drive innovation, enhance efficiency, and contribute to digital transformation goals.",
+    "years_of_experience": null,
+    "experiences": [
+        {
+            "title": "Infrastructure Intern",
+            "company": "Saudi Authority for Intellectual Property",
+            "location": "Riyadh, Saudi Arabia",
+            "start_date": null,
+            "end_date": null,
+            "bullets": [
+                "Provided technical support and troubleshooting for internal IT systems and infrastructure tools.",
+                "Performed routine system checks and basic network diagnostics under supervision.",
+                "Shadowed data and AI team, gaining hands-on exposure to data pipelines and ETL (Extract, Transform, Load) processes.",
+                "Learned fundamentals of enterprise data flows and how structured data supports AI-driven decision-making."
+            ]
+        },
+        {
+            "title": "Vice President of Computer Science and Engineering Club",
+            "company": null,
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "bullets": [
+                "Managed data records and optimized club activities.",
+                "Designed event plans and analyzed performance using Power BI dashboards.",
+                "Hosted the College Activities Awards Ceremony."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor degree",
+            "university": "University of Hafer Albatin",
+            "start_date": "08/2020",
+            "end_date": "2025/05",
+            "gpa": null
+        }
+    ],
+    "certifications": [],
+    "projects": [
+        {
+            "title": "Disease Risk Prediction & Auto-Retraining Web Platform",
+            "description": "Developed a full-stack AI application to predict the risk of heart disease, diabetes, and breast cancer using custom-trained machine learning models. Integrated dynamic user input forms, model-based validation, and auto-retraining logic triggered after every 50 predictions.",
+            "bullets": [
+                "Features: Flask-based web interface, data logging, auto-retraining with KNN + Random Forest, user feedback loop, multi-model architecture",
+                "Technologies: Python, Flask, Scikit-learn, Pandas, KNNImputer, RandomForest, HTML, CSV logging"
+            ],
+            "tools": []
+        },
+        {
+            "title": "U.S. State Legal Cases Big Data Analysis",
+            "description": "Analyzed gigabyte-scale legal case data using Apache Spark and Hadoop to extract trends and anomalies.",
+            "bullets": [],
+            "tools": [
+                "Spark",
+                "Hadoop",
+                "Python"
+            ]
+        }
+    ],
+    "other_sections": [
+        "Completed internship at a national government authority (SAIP) in the infrastructure department",
+        "Selected as Vice President of the Computer Science & Engineering Club",
+        "Delivered multiple technical workshops and events for students in data science and AI",
+        "Worked part-time at the College of Computer Science, supporting labs and student development"
+    ],
+    "skills": [
+        "Python",
+        "R",
+        "SQL",
+        "HTML",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "Matplotlib",
+        "Seaborn",
+        "Tableau",
+        "Power BI",
+        "Supervised & Unsupervised Learning",
+        "Model Training & Evaluation",
+        "Apache Spark",
+        "Hadoop",
+        "Microsoft Azure (basic)",
+        "Problem Solving",
+        "Communication",
+        "Team Collaboration",
+        "Time Management",
+        "Leadership",
+        "Self-learning"
+    ],
+    "normalized_skills": [
+        "python",
+        "r",
+        "sql",
+        "html",
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "matplotlib",
+        "seaborn",
+        "tableau",
+        "power bi",
+        "supervised learning",
+        "unsupervised learning",
+        "model training",
+        "model evaluation",
+        "apache spark",
+        "hadoop",
+        "microsoft azure",
+        "problem solving",
+        "communication",
+        "team collaboration",
+        "time management",
+        "leadership",
+        "self-learning"
+    ],
+    "deterministic_normalized_skills": [
+        "python",
+        "r",
+        "sql",
+        "html",
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "matplotlib",
+        "seaborn",
+        "tableau",
+        "power bi",
+        "supervised learning",
+        "unsupervised learning",
+        "model training",
+        "model evaluation",
+        "apache spark",
+        "hadoop",
+        "microsoft azure",
+        "problem solving",
+        "communication",
+        "team collaboration",
+        "time management",
+        "leadership",
+        "self-learning"
+    ]
+}

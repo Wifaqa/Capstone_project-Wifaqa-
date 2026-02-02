@@ -1,0 +1,50 @@
+[
+  {
+    "candidate_id": "12202337",
+    "candidate_name": "12202337",
+    "fit_score": 0.0,
+    "score_breakdown": {
+      "required_skills": 0.0,
+      "preferred_skills": 0,
+      "domain_knowledge": 0.0,
+      "education": 0,
+      "experience": 0
+    },
+    "matched_required_skills": [],
+    "missing_required_skills": [
+      "communication",
+      "collaboration",
+      "problem-solving",
+      "troubleshooting"
+    ],
+    "matched_preferred_skills": [],
+    "experience_match": false,
+    "education_match": {
+      "level_match": false,
+      "field_match": false,
+      "resume_degrees": [
+        "master of business administration : finance",
+        "bachelor of science : medical technology"
+      ],
+      "required_level": "bachelor's degree",
+      "required_fields": [
+        "computer science",
+        "information technology"
+      ]
+    },
+    "domain_knowledge": {
+      "matched": [],
+      "missing": [
+        "computer networks",
+        "operating systems",
+        "software applications"
+      ]
+    },
+    "explanation": "### Explanation for Fit Score (0.0):\n\n- **No skills matched** (required or preferred).  \n- **Missing all required skills**: communication, collaboration, problem-solving, troubleshooting.  \n- **No domain knowledge matched**; missing: computer networks, operating systems, software applications.  \n- **Education mismatch**: level and field not aligned.  \n- **Experience mismatch**: no candidate experience data provided.  \n\n### Summary:\n- Unqualified due to **zero** matching criteria.",
+    "evidence": [
+      "Communicated and Collaborated with other areas in the firm, client, fund accountant, custodians that are impacted by the functions of the team",
+      "Reconciled mutual fund accounts with the custody Identified and Resolved differences in Custody and Accounting Cash, Currency and Positions using Eagle, IAX, Business Objects, Lombardi and Workbench Reports",
+      "Reconciled the quality assurance results on spreadsheets"
+    ]
+  }
+]

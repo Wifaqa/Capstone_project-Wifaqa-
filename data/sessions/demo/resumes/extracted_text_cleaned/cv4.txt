@@ -1,0 +1,64 @@
+KHALID AL-KHALDI
+Data Scientist
+Programming & Analytics
+Data Science graduate passionate about building intelligent, data-driven solutions. Experienced in transforming real-
+world data into insights and developing predictive models to support smart decision-making. Focused on applying
+AI and analytics to drive innovation, enhance efficiency, and contribute to digital transformation goals.
++966550246173
+ alkaldy30.a@gmail.com
+ linkedin 
+Saudi Arabia
+Data Science
+University of Hafer Albatin - Bachelor degree
+08/2020 - 2025/05
+Vice President of Computer Science and Engineering Club
+Managed data records and optimized club activities.
+Designed event plans and analyzed performance using Power BI dashboards.
+Hosted the College Activities Awards Ceremony
+S K I L L S
+S U M M A R Y
+P R O J E C T S
+E D U C A T I O N
+Infrastructure Intern
+Saudi Authority for Intellectual Property   Riyadh, Saudi Arabia
+Provided technical support and troubleshooting for internal IT systems and infrastructure tools.
+Performed routine system checks and basic network diagnostics under supervision.
+Shadowed data and AI team, gaining hands-on exposure to data pipelines and ETL (Extract, Transform, Load) processes.
+Learned fundamentals of enterprise data flows and how structured data supports AI-driven decision-making.
+Machine Learning & AI
+Disease Risk Prediction & Auto-Retraining Web Platform
+ Developed a full-stack AI application to predict the risk of heart disease, diabetes, and breast cancer using custom-trained
+machine learning models. Integrated dynamic user input forms, model-based validation, and auto-retraining logic triggered after
+every 50 predictions.
+Features: Flask-based web interface, data logging, auto-retraining with KNN + Random Forest, user feedback loop, multi-model
+architecture
+Technologies: Python, Flask, Scikit-learn, Pandas, KNNImputer, RandomForest, HTML, CSV logging
+U.S. State Legal Cases   Big Data Analysis
+Analyzed gigabyte-scale legal case data using Apache Spark and Hadoop to extract trends and anomalies.
+Tools: Spark, Hadoop, Python
+Completed internship at a national government authority (SAIP)
+in the infrastructure department
+Selected as Vice President of the Computer Science &
+Engineering Club
+A C H I E V E M E N T S 
+Delivered multiple technical workshops and events for
+students in data science and AI
+Worked part-time at the College of Computer Science,
+supporting labs and student development
+E X P E R I E N C E
+Big Data & Infrastructure
+Python, R, SQL, HTML
+Pandas,NumPy,Scikit-learn, 
+Matplotlib, Seaborn
+Tableau, Power BI
+Supervised & Unsupervised
+Learning
+Model Training & Evaluation
+Apache Spark, Hadoop
+Microsoft Azure (basic)
+Soft Skills
+Problem Solving,
+Communication, Team
+Collaboration
+Time Management,
+Leadership, Self-learning
