@@ -1,21 +1,27 @@
-# Muwaem – AI Recruiter
+# Wifaqa – AI Recruiter
 
-موائم (Muwaem) هو نظام ذكي لمواءمة السير الذاتية مع الوظائف باستخدام الذكاء الاصطناعي.
+وفاق (Wifaqa) هو نظام ذكي لمواءمة السير الذاتية مع الوظائف باستخدام الذكاء الاصطناعي،  
+يجمع بين القواعد المنطقية (Rule-Based) ونماذج اللغة الكبيرة (LLMs) مع البحث الدلالي المتقدم.
 
 ## Features
 
 - Resume PDF parsing
 - Structured JSON extraction
-- Candidate-job matching
-- Fit Score with explanation
-- Chat-based interaction
+- Job description analysis
+- Candidate–job matching
+- Hybrid search (BM25 + Vector Search + RRF)
+- Rule-based fit score
+- LLM-based evaluation with explanation
+- Final weighted score
+- Chat-based recruiter interaction
 
 ## Tech Stack
 
-- Python
-- GPT-4o
-- LangChain
+- Python 3.12
+- OpenAI (GPT-4o-mini)
 - ChromaDB
+- Sentence Transformers
+- Rank-BM25
 - Streamlit
 
 ## To run this code:
@@ -27,3 +33,16 @@
 2. Run Streamlit:
 
 - uv run streamlit run app.py
+
+## Environment Variables
+
+Create a `.env` file and add:
+
+- OPENAI_API_KEY=your_api_key_here
+
+## Notes
+
+- Rule-based score weight: 40%
+- LLM-based score weight: 60%
+- Designed as a graduation capstone project
+- Deployed using Streamlit Cloud
