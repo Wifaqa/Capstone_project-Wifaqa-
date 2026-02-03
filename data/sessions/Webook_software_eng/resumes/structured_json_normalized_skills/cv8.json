@@ -1,0 +1,189 @@
+{
+    "full_name": "Abdulrahman Khalid Bin Sawad",
+    "contact_info": {
+        "email": "AbdulrahmanSAW@hotmail.com",
+        "phone": "+966 565428777",
+        "linkedin": "linkedin.com/in/abdulrahman-bin-sawad",
+        "location": "Riyadh, Saudi Arabia"
+    },
+    "summary": "Law student at King Saud University in the final semester with a GPA of 4.50/5 and recipient of Second-Class Honors. Interested in law and gained practical experience through training at leading law firms and a governmental center. Also contributed to organizing legal events, managing student projects, and supporting legal and commercial operations in private businesses. Seeking a cooperative training opportunity in 2026 to enhance practical experience and build a strong career in law.",
+    "years_of_experience": 2,
+    "experiences": [
+        {
+            "title": "Trainee Legal Advisor (Contract)",
+            "company": "Alsayari Law Firm",
+            "location": "Riyadh",
+            "start_date": "Feb 2025",
+            "end_date": "Mar 2025",
+            "bullets": [
+                "Conducted legal due diligence for corporate entities, drafted agreements, and reviewed contracts.",
+                "Prepared legal research and communicated with clients to clarify regulatory aspects."
+            ]
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Al-Araqa Trading Establishment",
+            "location": "Riyadh",
+            "start_date": "Jan 2022",
+            "end_date": "Sep 2025",
+            "bullets": [
+                "Managed daily sales operations and oversaw business processes, including legal-related matters of the establishment.",
+                "Developed business relationships and ensured client satisfaction."
+            ]
+        },
+        {
+            "title": "Summer Legal Internship",
+            "company": "Rahaf Al-Humaidan & Partners",
+            "location": "Riyadh",
+            "start_date": "Jun 2025",
+            "end_date": "Aug 2025",
+            "bullets": [
+                "Contributed to contract drafting and preparation of legal memoranda and pleadings."
+            ]
+        },
+        {
+            "title": "Legal Internship",
+            "company": "Bin Mahmoud & Partners",
+            "location": "Riyadh",
+            "start_date": "Oct 2024",
+            "end_date": "Feb 2025",
+            "bullets": [
+                "Conducted legal research, analyzed cases, and supported governance framework development and contract drafting."
+            ]
+        },
+        {
+            "title": "Legal Internship (Job Shadowing)",
+            "company": "Saudi Business Center",
+            "location": "Riyadh",
+            "start_date": "Nov 2024",
+            "end_date": null,
+            "bullets": [
+                "Monitored daily regulatory procedures and participated in practical legal simulations."
+            ]
+        },
+        {
+            "title": "Summer Internship",
+            "company": "Dhafer Al-Shahrani Law Firm",
+            "location": "Riyadh",
+            "start_date": "Jul 2024",
+            "end_date": "Aug 2024",
+            "bullets": [
+                "Examined commercial cases, prepared legal memoranda, and gained exposure to litigation practices."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Law",
+            "university": "King Saud University",
+            "start_date": null,
+            "end_date": "Expected Graduation: 2026",
+            "gpa": "4.50/5"
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Certified GRC Professional (GRCP)",
+            "provider": "OCEG",
+            "start_date": "Sep 2025",
+            "end_date": null
+        },
+        {
+            "title": "Certificate of Completion: Principles of Artificial Intelligence",
+            "provider": "SDAIA",
+            "start_date": "Sep 2025",
+            "end_date": null
+        },
+        {
+            "title": "Training Program legal English level 100",
+            "provider": "Metropolis Legal Training",
+            "start_date": "May 2025",
+            "end_date": null
+        },
+        {
+            "title": "Microsoft Office Specialist Certification",
+            "provider": "Microsoft",
+            "start_date": "Jan 2024",
+            "end_date": null
+        },
+        {
+            "title": "Future of Law Students Course",
+            "provider": "King Saud University",
+            "start_date": "Sep 2023",
+            "end_date": null
+        },
+        {
+            "title": "Legal English Workshop",
+            "provider": "Above & Beyond Team in collaboration with Khushaim & Partners and Al Faisal University",
+            "start_date": null,
+            "end_date": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "Kiffah Legal Forum",
+            "description": "A student-led legal forum aimed at enhancing legal awareness through specialized workshops and engagement with legal entities.",
+            "bullets": [
+                "Directed the project, coordinated with participating entities, and supervised event preparations and workshop organization in collaboration with the Law Students team."
+            ],
+            "tools": []
+        }
+    ],
+    "other_sections": [
+        "Member of Student Partnership | King Saud University | Mar 2023 - Feb 2025",
+        "Member of Logistics Support Committee | Kiffah Initiative | Jan 2023 - Jan 2025",
+        "Member of Legal English Committee | Above & Beyond Club | Aug 2024 - Aug 2025",
+        "Member of Logistics Support Committee | Law Club | May 2024 - Apr 2025",
+        "Member of Logistics Support Committee | Nazaha Club | Mar 2023 - Oct 2023"
+    ],
+    "skills": [
+        "Leadership",
+        "Teamwork",
+        "Time Management",
+        "Flexibility",
+        "Problem-Solving",
+        "Legal Research",
+        "Contract Drafting & Review",
+        "Legal Memoranda Writing",
+        "Legal Due Diligence",
+        "Project Management",
+        "Microsoft Office Suite",
+        "Digital Document Drafting",
+        "Digital Communication Tools",
+        "Electronic Archiving Systems"
+    ],
+    "normalized_skills": [
+        "leadership",
+        "teamwork",
+        "time management",
+        "flexibility",
+        "problem-solving",
+        "legal research",
+        "contract drafting",
+        "contract review",
+        "legal memoranda writing",
+        "legal due diligence",
+        "project management",
+        "microsoft office suite",
+        "digital document drafting",
+        "digital communication tools",
+        "electronic archiving systems"
+    ],
+    "deterministic_normalized_skills": [
+        "leadership",
+        "teamwork",
+        "time management",
+        "flexibility",
+        "problem-solving",
+        "legal research",
+        "contract drafting",
+        "contract review",
+        "legal memoranda writing",
+        "legal due diligence",
+        "project management",
+        "microsoft office suite",
+        "digital document drafting",
+        "digital communication tools",
+        "electronic archiving systems"
+    ]
+}

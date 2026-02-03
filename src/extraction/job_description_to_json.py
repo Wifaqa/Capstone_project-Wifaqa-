@@ -1,12 +1,23 @@
 import json
+import os
 from openai import OpenAI
 
+# client = OpenAI(
+#     api_key="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",
+#     base_url="https://openrouter.ai/api/v1"
+# )
+
+# MODEL = "deepseek/deepseek-chat"
+
+from dotenv import load_dotenv
+
+load_dotenv()
+
 client = OpenAI(
-    api_key="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",
-    base_url="https://openrouter.ai/api/v1"
+    api_key=os.getenv("OPENAI_API_KEY")
 )
 
-MODEL = "deepseek/deepseek-chat"
+MODEL = "gpt-4o-mini"  # سريع + ممتاز للتقييم
 
 def extract_jd_to_json(jd_text: str) -> dict:
     prompt = f"""

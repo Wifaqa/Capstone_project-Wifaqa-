@@ -6,13 +6,23 @@ from openai import OpenAI
 from dotenv import load_dotenv
 load_dotenv()
 # OpenRouter client
+# client = OpenAI(
+#     # api_key="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",
+#     api_key="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",
+#     base_url="https://openrouter.ai/api/v1"
+# )
+
+# MODEL = "deepseek/deepseek-chat"
+
+from dotenv import load_dotenv
+
+load_dotenv()
+
 client = OpenAI(
-    # api_key="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",
-    api_key="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",
-    base_url="https://openrouter.ai/api/v1"
+    api_key=os.getenv("OPENAI_API_KEY")
 )
 
-MODEL = "deepseek/deepseek-chat"
+MODEL = "gpt-4o-mini"  
 
 INPUT_TEXT_DIR = Path("data/resumes/extracted_text/demo_cleaned_txt")
 OUTPUT_JSON_DIR = Path("data/resumes/structured_json")

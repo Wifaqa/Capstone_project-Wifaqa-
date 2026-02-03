@@ -102,7 +102,7 @@ def rule_based_match(resume: dict, jd: dict) -> dict:
     # Education (SOFT MATCH)
     # =====================
     # Education (ROBUST)
-    jd_level = jd.get("required", {}).get("education_level", "").lower()
+    jd_level = (jd.get("required", {}).get("education_level") or "").lower()
     jd_fields = [f.lower() for f in jd.get("required", {}).get("degree_fields", [])]
 
     resume_degrees = [

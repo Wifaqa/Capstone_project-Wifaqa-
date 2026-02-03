@@ -1,0 +1,620 @@
+[
+  {
+    "candidate_id": "cv10",
+    "candidate_name": "Hanan Ibrahim ZainAldeen",
+    "final_score": 66.0,
+    "rules_score": 60.0,
+    "llm_score": 70.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "software development",
+          "communication"
+        ],
+        "missing": []
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": true,
+        "field_match": true
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 70.0,
+      "rubric": {
+        "skills": 30,
+        "experience": 15,
+        "projects": 10,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "software development",
+        "communication"
+      ],
+      "missing_skills": [],
+      "strengths": [
+        "hands-on experience in both front-end and back-end development",
+        "passion for web and app development",
+        "strong communication skills"
+      ],
+      "concerns": [
+        "no specific mention of a bachelor's degree in a relevant field"
+      ],
+      "summary": "The candidate demonstrates strong software development skills and communication abilities but lacks explicit educational qualifications in a relevant field."
+    },
+    "evidence": "Skills: application design, web design, coding, microsoft office, development, design, communication, problem-solving, creativity, time management, eye for detail, html, php, javascript, javafx, c++, sql, css, python"
+  },
+  {
+    "candidate_id": "cv5",
+    "candidate_name": "Abdulrahman Salim Saud",
+    "final_score": 63.0,
+    "rules_score": 60.0,
+    "llm_score": 65.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "software development",
+          "communication"
+        ],
+        "missing": []
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": 0,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": true,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 65.0,
+      "rubric": {
+        "skills": 30,
+        "experience": 15,
+        "projects": 10,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "communication",
+        "problem solving",
+        "time management"
+      ],
+      "missing_skills": [
+        "software development"
+      ],
+      "strengths": [
+        "Strong communication skills",
+        "Experience in data analysis and visualization",
+        "Familiarity with Python and related libraries"
+      ],
+      "concerns": [
+        "Lacks direct software development experience",
+        "No mention of web or mobile application development"
+      ],
+      "summary": "The candidate has strong analytical skills and communication abilities but lacks direct software development experience required for the Junior Software Engineer role."
+    },
+    "evidence": "Delivered lectures and workshops in computer fundamentals and productivity software."
+  },
+  {
+    "candidate_id": "cv1",
+    "candidate_name": "Khalid Alkhaldi",
+    "final_score": 63.0,
+    "rules_score": 60.0,
+    "llm_score": 65.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "software development",
+          "communication"
+        ],
+        "missing": []
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": 0,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": true,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 65.0,
+      "rubric": {
+        "skills": 30,
+        "experience": 15,
+        "projects": 10,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "communication",
+        "problem solving",
+        "time management",
+        "teamwork",
+        "critical thinking",
+        "adaptability",
+        "arabic",
+        "english"
+      ],
+      "missing_skills": [
+        "software development"
+      ],
+      "strengths": [
+        "Strong communication skills",
+        "Experience with data pipelines and ETL processes",
+        "Hands-on experience with machine learning models"
+      ],
+      "concerns": [
+        "Lacks direct software development experience",
+        "No specific experience with web or mobile applications"
+      ],
+      "summary": "The candidate has strong communication and problem-solving skills but lacks direct software development experience, which is critical for the Junior Software Engineer role."
+    },
+    "evidence": "Skills: python, r, sql, html, css, pandas, numpy, scikit-learn, matplotlib, scipy, flask, ggplot2, pyspark, tensorflow, pytorch, power bi, tableau, excel, powerpoint, mysql, mongodb, jupyter notebook, pycharm, vs code, google collab, problem solving, time management, communication, teamwork, critical thinking, adaptability, arabic, english"
+  },
+  {
+    "candidate_id": "cv3",
+    "candidate_name": "Abdullah Al-Mutairi",
+    "final_score": 57.0,
+    "rules_score": 60.0,
+    "llm_score": 55.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "software development",
+          "communication"
+        ],
+        "missing": []
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": 1,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": true,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 55.0,
+      "rubric": {
+        "skills": 20,
+        "experience": 15,
+        "projects": 10,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "communication",
+        "problem solving",
+        "time management",
+        "teamwork",
+        "critical thinking",
+        "adaptability"
+      ],
+      "missing_skills": [
+        "software development"
+      ],
+      "strengths": [
+        "Strong communication skills",
+        "Experience in data analysis and system development",
+        "Ability to work with cross-functional teams"
+      ],
+      "concerns": [
+        "Lacks direct software development experience",
+        "No experience with web or mobile applications"
+      ],
+      "summary": "The candidate has strong analytical skills and communication abilities but lacks direct software development experience required for the Junior Software Engineer role."
+    },
+    "evidence": "Skills: python, r, sql, html, css, pandas, numpy, scikit-learn, matplotlib, scipy, flask, ggplot2, pyspark, tensorflow, pytorch, apache spark, power bi, tableau, ms excel, ms access, ms powerpoint, mysql, mongodb, jupyter notebook, pycharm, vs code, google colab, problem solving, time management, communication, teamwork, critical thinking, adaptability"
+  },
+  {
+    "candidate_id": "cv4",
+    "candidate_name": "KHALID AL-KHALDI",
+    "final_score": 57.0,
+    "rules_score": 60.0,
+    "llm_score": 55.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "software development",
+          "communication"
+        ],
+        "missing": []
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": true,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 55.0,
+      "rubric": {
+        "skills": 20,
+        "experience": 10,
+        "projects": 15,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "communication"
+      ],
+      "missing_skills": [
+        "software development"
+      ],
+      "strengths": [
+        "Strong background in data science and analytics",
+        "Experience with Python and SQL",
+        "Good communication and problem-solving skills"
+      ],
+      "concerns": [
+        "Lacks direct software development experience",
+        "Missing core technical skills required for the role"
+      ],
+      "summary": "The candidate has a strong data science background and communication skills but lacks essential software development experience required for the Junior Software Engineer position."
+    },
+    "evidence": "Skills: big data, infrastructure, python, r, sql, html, pandas, numpy, scikit-learn, matplotlib, seaborn, tableau, power bi, supervised learning, unsupervised learning, model training, model evaluation, apache spark, hadoop, microsoft azure, problem solving, communication, team collaboration, time management, leadership, self-learning"
+  },
+  {
+    "candidate_id": "cv7",
+    "candidate_name": "Faisal Balkhair",
+    "final_score": 51.0,
+    "rules_score": 30.0,
+    "llm_score": 65.0,
+    "rules": {
+      "required_skills": {
+        "matched": [],
+        "missing": [
+          "software development",
+          "communication"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": 0,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": true,
+        "field_match": true
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 65.0,
+      "rubric": {
+        "skills": 30,
+        "experience": 15,
+        "projects": 10,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "software development",
+        "communication"
+      ],
+      "missing_skills": [],
+      "strengths": [
+        "Computer Science graduate",
+        "practical experience in programming and web development",
+        "skilled in Python and SQL"
+      ],
+      "concerns": [
+        "lack of direct experience in mobile applications",
+        "no specific mention of server-side application development"
+      ],
+      "summary": "The candidate has a solid educational background and relevant programming skills but lacks direct experience in some key responsibilities outlined in the job description."
+    },
+    "evidence": "Computer Science graduate with practical experience in programming, web development, and IT operations. Skilled in Python, SQL, and data handling with a solid understanding of software engineering principles. Passionate about learning and applying artificial intelligence and machine learning concepts to develop efficient and innovative solutions."
+  },
+  {
+    "candidate_id": "cv2",
+    "candidate_name": "Abdulrahman Alshatri",
+    "final_score": 45.0,
+    "rules_score": 45.0,
+    "llm_score": 45.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "software development"
+        ],
+        "missing": [
+          "communication"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": true,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 45.0,
+      "rubric": {
+        "skills": 15,
+        "experience": 10,
+        "projects": 10,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "communication",
+        "problem solving",
+        "team work",
+        "decision making"
+      ],
+      "missing_skills": [
+        "software development"
+      ],
+      "strengths": [
+        "Strong foundation in data analysis and SQL",
+        "Experience in building dashboards and reports",
+        "Good communication and teamwork skills"
+      ],
+      "concerns": [
+        "Lacks direct software development experience",
+        "No relevant projects in software engineering or web/mobile applications"
+      ],
+      "summary": "The candidate has strong analytical skills and experience in data-related projects but lacks the required software development experience and skills for the Junior Software Engineer position."
+    },
+    "evidence": "Developing dashboards and reports to monitor project and team performance."
+  },
+  {
+    "candidate_id": "cv9",
+    "candidate_name": "Mohamed Saad",
+    "final_score": 39.0,
+    "rules_score": 30.0,
+    "llm_score": 45.0,
+    "rules": {
+      "required_skills": {
+        "matched": [],
+        "missing": [
+          "software development",
+          "communication"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": 3,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": true,
+        "field_match": true
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 45.0,
+      "rubric": {
+        "skills": 20,
+        "experience": 5,
+        "projects": 10,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "python",
+        "sql",
+        "data analysis",
+        "communication"
+      ],
+      "missing_skills": [
+        "software development"
+      ],
+      "strengths": [
+        "Strong analytical skills",
+        "Experience with data analysis and machine learning",
+        "Recent graduate with a relevant degree"
+      ],
+      "concerns": [
+        "Lacks direct software development experience",
+        "Missing core skills related to software engineering"
+      ],
+      "summary": "The candidate has a strong analytical background and relevant skills in data analysis and machine learning but lacks essential software development experience and skills."
+    },
+    "evidence": "A recent graduate of Data Science, my ambition is to join a professional work environment that enables me to develop my scientific and practical skills to contribute to the development of the workplace in which I will work, and to be an effective and productive member to serve my community, advance my country, and contribute to improving and developing work to achieve the goals of the Kingdom's Vision 2030."
+  },
+  {
+    "candidate_id": "cv6",
+    "candidate_name": "Saleh Al-Anazi",
+    "final_score": 33.0,
+    "rules_score": 30.0,
+    "llm_score": 35.0,
+    "rules": {
+      "required_skills": {
+        "matched": [],
+        "missing": [
+          "software development",
+          "communication"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": 2,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": true,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 35.0,
+      "rubric": {
+        "skills": 15,
+        "experience": 10,
+        "projects": 5,
+        "tools": 5,
+        "education": 0
+      },
+      "matched_skills": [
+        "software development"
+      ],
+      "missing_skills": [
+        "communication"
+      ],
+      "strengths": [
+        "Strong data analytics and visualization skills",
+        "Experience in web development using Flask",
+        "Award-winning academic project"
+      ],
+      "concerns": [
+        "No relevant experience in software engineering roles",
+        "Lacks a bachelor's degree in required fields",
+        "Missing core communication skill"
+      ],
+      "summary": "The candidate has strong data science skills and web development experience but lacks essential communication skills and a relevant degree for the Junior Software Engineer position."
+    },
+    "evidence": "Skills: data analytics, data visualization, web development, flask"
+  },
+  {
+    "candidate_id": "cv8",
+    "candidate_name": "Abdulrahman Khalid Bin Sawad",
+    "final_score": 27.0,
+    "rules_score": 45.0,
+    "llm_score": 15.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "communication"
+        ],
+        "missing": [
+          "software development"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": 2,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": true,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 15.0,
+      "rubric": {
+        "skills": 0,
+        "experience": 5,
+        "projects": 5,
+        "tools": 0,
+        "education": 5
+      },
+      "matched_skills": [],
+      "missing_skills": [
+        "software development",
+        "communication"
+      ],
+      "strengths": [
+        "strong academic performance with a GPA of 4.50/5",
+        "experience in project management and legal research"
+      ],
+      "concerns": [
+        "no relevant software development experience",
+        "lack of technical skills required for the role"
+      ],
+      "summary": "The candidate has strong academic credentials and project management experience but lacks the necessary software development skills and relevant experience for the Junior Software Engineer position."
+    },
+    "evidence": "Skills: leadership, teamwork, time management, flexibility, problem-solving, legal research, contract drafting, contract review, legal memoranda writing, legal due diligence, project management, microsoft office suite, digital document drafting, digital communication tools, electronic archiving systems"
+  }
+]

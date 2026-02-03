@@ -133,25 +133,67 @@ if st.button("🚀 Run Matching"):
     st.subheader("📊 Ranked Candidates")
 
     for idx, r in enumerate(results, start=1):
+
         with st.container():
+            rules = r.get("rules", {})
             # -------------------------
             # Header
             # -------------------------
             st.markdown(
-                f"## {idx}. {r['candidate_name']} — **{r['fit_score']}%**"
+                f"## {idx}. {r['candidate_name']} — **{r['final_score']}%**"
             )
 
             # -------------------------
             # Score Breakdown
             # -------------------------
             st.markdown("### 🔍 Score Breakdown")
-            st.json(r["score_breakdown"])
+
+            st.json({
+                "rule_based_score": r.get("rules_score"),
+                "llm_score": r.get("llm_score"),
+                "final_score": r.get("final_score")
+            })
 
             # -------------------------
             # Explanation
             # -------------------------
+            # st.markdown("### 🧠 Explanation (Why this score?)")
+
+            # if "llm" in r and isinstance(r["llm"], dict):
+            #     st.write(r["llm"].get("reasoning", "No explanation provided by LLM."))
+            # else:
+            #     st.write("No explanation available.")
             st.markdown("### 🧠 Explanation (Why this score?)")
-            st.write(r["explanation"])
+
+        llm = r.get("llm", {})
+
+        if not llm:
+            st.write("No explanation available.")
+        else:
+            # 1) One-line executive summary
+            summary = llm.get("one_sentence_summary", "").strip()
+            if summary:
+                st.markdown(f"**Summary:** {summary}")
+
+            # 2) Rubric breakdown (VERY IMPORTANT)
+            rubric = llm.get("rubric", {})
+            if rubric:
+                st.markdown("**Score Breakdown (LLM):**")
+                st.json(rubric)
+
+            # 3) Strengths
+            strengths = llm.get("strengths", [])
+            if strengths:
+                st.markdown("**Key Strengths:**")
+                for s in strengths:
+                    st.markdown(f"- {s}")
+
+            # 4) Concerns
+            concerns = llm.get("concerns", [])
+            if concerns:
+                st.markdown("**Main Concerns:**")
+                for c in concerns:
+                    st.markdown(f"- {c}")
 
             col1, col2 = st.columns(2)
 
@@ -160,26 +202,36 @@ if st.button("🚀 Run Matching"):
             # -------------------------
             with col1:
                 st.markdown("### ✅ Matched Required Skills")
-                st.write(r["matched_required_skills"] or "—")
+                
+                st.write(
+                    rules.get("required_skills", {}).get("matched", []) or "—"
+                )
 
                 st.markdown("### ⭐ Matched Preferred Skills")
-                st.write(r["matched_preferred_skills"] or "—")
+                st.write(
+                    rules.get("preferred_skills", {}).get("matched", []) or "—"
+                )
 
             # -------------------------
             # Right column
             # -------------------------
             with col2:
                 st.markdown("### ❌ Missing Required Skills")
-                st.write(r["missing_required_skills"] or "—")
+                st.write(
+                    rules.get("required_skills", {}).get("missing", []) or "—"
+                )
 
                 st.markdown("### ⏳ Experience Match")
-                st.write("Yes ✅" if r["experience_match"] else "No ❌")
+                st.write(
+                    "Yes ✅" if rules.get("experience", {}).get("match") else "No ❌"
+                )
 
             # -------------------------
             # Education
             # -------------------------
             st.markdown("### 🎓 Education Match")
-            edu = r.get("education", {})
+            
+            edu = rules.get("education", {})
             if edu:
                 st.write(
                     "Yes ✅"
@@ -194,15 +246,24 @@ if st.button("🚀 Run Matching"):
             # -------------------------
             st.markdown("### 🧠 Domain Knowledge")
 
-            domain = r.get("domain_knowledge", {})
-            if domain:
-                st.markdown("**Matched:**")
-                st.write(domain.get("matched") or "—")
+            rules = r.get("rules", {})
+            domain = rules.get("domain_knowledge", None)
 
-                st.markdown("**Missing:**")
-                st.write(domain.get("missing") or "—")
-            else:
+            if domain is None:
                 st.write("—")
+            else:
+                matched = domain.get("matched", [])
+                missing = domain.get("missing", [])
+
+                # لو الـ JD ما حدد دومين
+                if not matched and not missing:
+                    st.write("Not specified in JD (domain_knowledge empty).")
+                else:
+                    st.markdown("**Matched:**")
+                    st.write(matched or "—")
+
+                    st.markdown("**Missing:**")
+                    st.write(missing or "—")
 
             st.divider()
 

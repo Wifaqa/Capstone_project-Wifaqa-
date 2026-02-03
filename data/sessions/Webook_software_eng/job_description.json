@@ -1,0 +1,45 @@
+{
+  "job_title": "Junior Software Engineer",
+  "seniority_level": "junior",
+  "required": {
+    "skills": [
+      "software development",
+      "communication"
+    ],
+    "tools": [],
+    "domain_knowledge": [],
+    "min_years_exp": null,
+    "education_level": "bachelor's degree",
+    "degree_fields": [
+      "computer science",
+      "software engineering",
+      "related field"
+    ],
+    "languages": [
+      "english",
+      "arabic"
+    ]
+  },
+  "preferred": {
+    "skills": [],
+    "tools": [],
+    "certifications": [],
+    "industry_exp": []
+  },
+  "responsibilities": [
+    "understand and gather complex business needs",
+    "map out technical solutions",
+    "develop and manage in defined timelines",
+    "create and execute test cases",
+    "design, build and maintain server-side applications",
+    "craft client experience on mobile devices",
+    "build fast, scalable, and responsive web experiences"
+  ],
+  "keywords": [
+    "software engineer",
+    "junior",
+    "web applications",
+    "mobile applications",
+    "communication skills"
+  ]
+}

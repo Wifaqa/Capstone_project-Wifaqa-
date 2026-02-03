@@ -1,162 +1,774 @@
 [
   {
-    "candidate_id": "cv3",
-    "candidate_name": "Abdullah Al-Mutairi",
-    "fit_score": 42.0,
-    "score_breakdown": {
-      "required_skills": 42.0,
-      "preferred_skills": 0,
-      "experience": 0
+    "candidate_id": "cv6",
+    "candidate_name": "Saleh Al-Anazi",
+    "final_score": 65.4,
+    "rules_score": 36.0,
+    "llm_score": 85.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "machine learning",
+          "python programming",
+          "r programming",
+          "data wrangling",
+          "data visualization",
+          "predictive modeling",
+          "business problem solving"
+        ],
+        "missing": [
+          "statistical analysis",
+          "communication skills",
+          "data analysis"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": false,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
     },
-    "matched_required_skills": [
-      "machine learning",
-      "predictive modeling",
-      "business problem solving",
-      "python programming",
-      "communication skills",
-      "r programming",
-      "data wrangling"
-    ],
-    "missing_required_skills": [
-      "statistical analysis",
-      "data analysis",
-      "data visualization"
-    ],
-    "matched_preferred_skills": [],
-    "experience_match": false,
-    "explanation": "- **Matched required skills**: Abdullah has 7 out of 10 required skills, including machine learning, predictive modeling, and Python programming.  \n- **Missing required skills**: Lacks 3 critical skills: statistical analysis, data analysis, and data visualization.  \n- **Matched preferred skills**: None of the preferred skills were matched.  \n- **Experience match**: No years of experience provided, which does not meet the unspecified minimum requirement.  \n- **Overall**: Partial alignment with required skills and no preferred skills, resulting in a moderate fit score of 42.0.",
-    "evidence": [
-      "Data Science graduate with hands-on experience in data analysis, big data processing, and system development through academic projects and cooperative training. Skilled in transforming raw data into actionable insights, building scalable data workflows, and applying analytical and machine learning concepts to solve real-world problems. Experienced in working with large datasets, databases, and cross-functional teams, with a strong foundation in problem-solving, data quality, and continuous learning.",
-      "Conducted scalable data analysis using Spark's distributed processing and RDD-based operations to identify crime patterns, trends, and relationships across multiple years.",
-      "Conducted scalable data analysis using Spark's distributed processing and RDD-based operations to identify crime patterns, trends, and relationships across multiple years."
-    ]
+    "llm": {
+      "fit_score": 85.0,
+      "rubric": {
+        "skills": 35,
+        "experience": 20,
+        "projects": 20,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "python programming",
+        "r programming",
+        "data visualization",
+        "data analysis",
+        "machine learning",
+        "business problem solving"
+      ],
+      "missing_skills": [
+        "statistical analysis",
+        "data wrangling",
+        "predictive modeling",
+        "communication skills"
+      ],
+      "strengths": [
+        "Strong experience in developing AI-powered models",
+        "Proficient in data visualization and analytics",
+        "Demonstrated ability to drive impactful change through data-driven solutions"
+      ],
+      "concerns": [
+        "Missing several core must-have skills such as statistical analysis and data wrangling",
+        "Limited explicit communication skills mentioned"
+      ],
+      "summary": "The candidate is a Senior Data Scientist with strong skills in Python, R, and data visualization, but lacks some essential skills like statistical analysis and data wrangling."
+    },
+    "evidence": "Skills: python, r, data management, data analytics, data visualization, flask"
   },
   {
-    "candidate_id": "cv2",
-    "candidate_name": "Abdulrahman Alshatri",
-    "fit_score": 42.0,
-    "score_breakdown": {
-      "required_skills": 42.0,
-      "preferred_skills": 0,
-      "experience": 0
+    "candidate_id": "cv1",
+    "candidate_name": "Khalid Alkhaldi",
+    "final_score": 65.4,
+    "rules_score": 36.0,
+    "llm_score": 85.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "machine learning",
+          "python programming",
+          "r programming",
+          "data wrangling",
+          "communication skills",
+          "predictive modeling",
+          "business problem solving"
+        ],
+        "missing": [
+          "statistical analysis",
+          "data visualization",
+          "data analysis"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": false,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
     },
-    "matched_required_skills": [
-      "machine learning",
-      "predictive modeling",
-      "business problem solving",
-      "python programming",
-      "r programming",
-      "data analysis",
-      "data wrangling"
-    ],
-    "missing_required_skills": [
-      "communication skills",
-      "statistical analysis",
-      "data visualization"
-    ],
-    "matched_preferred_skills": [],
-    "experience_match": false,
-    "explanation": "- **Matched required skills**: Candidate has 7 out of 10 required skills.  \n- **Missing required skills**: Lacks 3 critical skills: communication, statistical analysis, and data visualization.  \n- **Matched preferred skills**: No preferred skills matched.  \n- **Experience match**: No experience provided, but no minimum years required.  \n- **Fit score**: 42.0 reflects partial alignment with required skills and no preferred skills.",
-    "evidence": [
-      "Data Science graduate with a strong foundation in data analysis, SQL, and data visualization. Experienced in building Power BI dashboards, analyzing business data, and transforming raw data into actionable insights to support data-driven decision making.",
-      "Conducting data analysis to support decision-making and operational improvements.",
-      "Produced structured outputs to support analytical insights."
-    ]
+    "llm": {
+      "fit_score": 85.0,
+      "rubric": {
+        "skills": 35,
+        "experience": 20,
+        "projects": 20,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "python programming",
+        "r programming",
+        "data wrangling",
+        "data visualization",
+        "communication skills",
+        "predictive modeling",
+        "data analysis",
+        "business problem solving"
+      ],
+      "missing_skills": [
+        "statistical analysis",
+        "machine learning"
+      ],
+      "strengths": [
+        "Hands-on experience with data pipelines and ETL processes",
+        "Developed machine learning models with high predictive accuracy",
+        "Experience in building web applications integrating machine learning"
+      ],
+      "concerns": [
+        "Missing core skills in statistical analysis and machine learning"
+      ],
+      "summary": "The candidate demonstrates strong programming and data visualization skills with relevant project experience, but lacks some core statistical and machine learning skills."
+    },
+    "evidence": "Skills: python, r, sql, html, css, pandas, numpy, scikit-learn, matplotlib, scipy, flask, ggplot2, pyspark, tensorflow, pytorch, power bi, tableau, excel, powerpoint, mysql, mongodb, jupyter notebook, pycharm, vs code, google collab, problem solving, time management, communication, teamwork, critical thinking, adaptability, arabic, english"
   },
   {
     "candidate_id": "cv5",
     "candidate_name": "Abdulrahman Salim Saud",
-    "fit_score": 42.0,
-    "score_breakdown": {
-      "required_skills": 42.0,
-      "preferred_skills": 0,
-      "experience": 0
+    "final_score": 62.4,
+    "rules_score": 36.0,
+    "llm_score": 80.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "machine learning",
+          "python programming",
+          "r programming",
+          "data wrangling",
+          "communication skills",
+          "predictive modeling",
+          "business problem solving"
+        ],
+        "missing": [
+          "statistical analysis",
+          "data visualization",
+          "data analysis"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": false,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
     },
-    "matched_required_skills": [
-      "machine learning",
-      "predictive modeling",
-      "business problem solving",
-      "python programming",
-      "communication skills",
-      "r programming",
-      "data wrangling"
-    ],
-    "missing_required_skills": [
-      "statistical analysis",
-      "data analysis",
-      "data visualization"
-    ],
-    "matched_preferred_skills": [],
-    "experience_match": false,
-    "explanation": "- **Matched required skills**: 7 out of 10 skills matched (e.g., machine learning, Python programming).  \n- **Missing required skills**: 3 key skills missing (statistical analysis, data analysis, data visualization).  \n- **Matched preferred skills**: No preferred skills matched.  \n- **Experience match**: No experience provided, but no minimum years required.  \n- **Fit score**: Lower due to missing required skills and no preferred skills matched.",
-    "evidence": [
-      "Analyzed and visualized datasets using Python to support academic research and institutional reporting.",
-      "Big data Project",
-      "Built and compared Decision Tree, Random Forest, and SVM models; Random Forest achieved 85%"
-    ]
+    "llm": {
+      "fit_score": 80.0,
+      "rubric": {
+        "skills": 35,
+        "experience": 20,
+        "projects": 15,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "python programming",
+        "r programming",
+        "data wrangling",
+        "data visualization",
+        "communication skills",
+        "predictive modeling",
+        "data analysis",
+        "business problem solving"
+      ],
+      "missing_skills": [
+        "statistical analysis",
+        "machine learning"
+      ],
+      "strengths": [
+        "Strong programming skills in Python and R",
+        "Experience with machine learning models and data visualization",
+        "Effective communication and problem-solving abilities"
+      ],
+      "concerns": [
+        "Missing statistical analysis and machine learning skills",
+        "Experience primarily in academic settings rather than industry"
+      ],
+      "summary": "The candidate demonstrates strong programming and data analysis skills but lacks some key statistical and machine learning competencies required for the Data Scientist role."
+    },
+    "evidence": "Skills: python, r, sql, html, css, pandas, numpy, scikit-learn, matplotlib, flask, ggplot2, pyspark, power bi, excel, powerpoint, mysql, tableau, jupyter notebook, pycharm, visual studio code, problem solving, time management, communication, public speaking, social media creation, arabic, english"
   },
   {
     "candidate_id": "cv4",
     "candidate_name": "KHALID AL-KHALDI",
-    "fit_score": 42.0,
-    "score_breakdown": {
-      "required_skills": 42.0,
-      "preferred_skills": 0,
-      "experience": 0
+    "final_score": 59.4,
+    "rules_score": 36.0,
+    "llm_score": 75.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "machine learning",
+          "python programming",
+          "r programming",
+          "data wrangling",
+          "communication skills",
+          "predictive modeling",
+          "business problem solving"
+        ],
+        "missing": [
+          "statistical analysis",
+          "data visualization",
+          "data analysis"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": false,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
     },
-    "matched_required_skills": [
-      "machine learning",
-      "predictive modeling",
-      "business problem solving",
-      "python programming",
-      "communication skills",
-      "r programming",
-      "data wrangling"
-    ],
-    "missing_required_skills": [
-      "statistical analysis",
-      "data analysis",
-      "data visualization"
-    ],
-    "matched_preferred_skills": [],
-    "experience_match": false,
-    "explanation": "- **Matched 7/10 required skills** (missing 3 key skills: statistical analysis, data analysis, data visualization).  \n- **No preferred skills matched**.  \n- **Experience not provided**, so no match on years.  \n- **Moderate fit** due to gaps in core data science skills (statistics, analysis, visualization).",
-    "evidence": [
-      "Data Science graduate passionate about building intelligent, data-driven solutions. Experienced in transforming real-world data into insights and developing predictive models to support smart decision-making. Focused on applying AI and analytics to drive innovation, enhance efficiency, and contribute to digital transformation goals.",
-      "Technologies: Python, Flask, Scikit-learn, Pandas, KNNImputer, RandomForest, HTML, CSV logging",
-      "Technologies: Python, Flask, Scikit-learn, Pandas, KNNImputer, RandomForest, HTML, CSV logging"
-    ]
+    "llm": {
+      "fit_score": 75.0,
+      "rubric": {
+        "skills": 30,
+        "experience": 15,
+        "projects": 20,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "python programming",
+        "r programming",
+        "data wrangling",
+        "data visualization",
+        "communication skills",
+        "predictive modeling",
+        "data analysis",
+        "business problem solving"
+      ],
+      "missing_skills": [
+        "statistical analysis",
+        "machine learning"
+      ],
+      "strengths": [
+        "Strong programming skills in Python and R",
+        "Experience with data visualization tools like Power BI",
+        "Hands-on experience with predictive modeling and machine learning techniques"
+      ],
+      "concerns": [
+        "Lacks experience in statistical analysis and machine learning algorithms",
+        "Limited professional experience in relevant data science roles"
+      ],
+      "summary": "The candidate has a solid foundation in data science with strong programming skills and relevant project experience, but lacks some critical skills in statistical analysis and machine learning."
+    },
+    "evidence": "Skills: python, r, sql, html, pandas, numpy, scikit-learn, matplotlib, seaborn, tableau, power bi, supervised learning, unsupervised learning, model training, model evaluation, apache spark, hadoop, microsoft azure, problem solving, communication, team collaboration, time management, leadership, self-learning"
   },
   {
-    "candidate_id": "cv6",
-    "candidate_name": "Saleh Al-Anazi",
-    "fit_score": 42.0,
-    "score_breakdown": {
-      "required_skills": 42.0,
-      "preferred_skills": 0,
-      "experience": 0
+    "candidate_id": "cv3",
+    "candidate_name": "Abdullah Al-Mutairi",
+    "final_score": 59.4,
+    "rules_score": 36.0,
+    "llm_score": 75.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "machine learning",
+          "python programming",
+          "r programming",
+          "data wrangling",
+          "communication skills",
+          "predictive modeling",
+          "business problem solving"
+        ],
+        "missing": [
+          "statistical analysis",
+          "data visualization",
+          "data analysis"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": false,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
     },
-    "matched_required_skills": [
-      "machine learning",
-      "predictive modeling",
-      "business problem solving",
-      "python programming",
-      "r programming",
-      "data visualization",
-      "data wrangling"
-    ],
-    "missing_required_skills": [
-      "communication skills",
-      "statistical analysis",
-      "data analysis"
-    ],
-    "matched_preferred_skills": [],
-    "experience_match": false,
-    "explanation": "- **Matched required skills**: Candidate has 7 out of 10 required skills.  \n- **Missing required skills**: Lacks 3 critical skills: communication, statistical analysis, and data analysis.  \n- **Matched preferred skills**: No preferred skills matched.  \n- **Experience match**: No experience provided, failing to meet the experience requirement.  \n- **Fit score**: 42.0 reflects partial alignment with job requirements but significant gaps in skills and experience.",
-    "evidence": [
-      "Senior Data Scientist with a passion for innovating and creating data-driven solutions. Skilled in transforming complex data into actionable insights and developing AI-powered models to solve real-world problems. Focused on leveraging data science to generate new ideas, optimize decision-making, and drive impactful change.",
-      "Data Visualization & Analysis: Developed interactive dashboards using Power BI to analyze and visualize client data, enabling data-driven decision-making.",
-      "Built an interactive platform with Python, Flask, and Gradient Boosting, providing real-time predictions based on day, month, and time period."
-    ]
+    "llm": {
+      "fit_score": 75.0,
+      "rubric": {
+        "skills": 30,
+        "experience": 20,
+        "projects": 15,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "data analysis",
+        "machine learning",
+        "python programming",
+        "r programming",
+        "problem solving",
+        "communication skills"
+      ],
+      "missing_skills": [
+        "statistical analysis",
+        "data wrangling",
+        "data visualization",
+        "predictive modeling",
+        "business problem solving"
+      ],
+      "strengths": [
+        "Hands-on experience in data analysis and big data processing",
+        "Strong foundation in problem-solving and communication",
+        "Experience with large datasets and cross-functional teams"
+      ],
+      "concerns": [
+        "Missing several core must-have skills such as statistical analysis and data wrangling",
+        "Limited direct experience in predictive modeling and business problem solving"
+      ],
+      "summary": "The candidate has a solid foundation in data science with relevant skills in Python and R, but lacks several critical must-have skills for the Data Scientist role."
+    },
+    "evidence": "Data Science graduate with hands-on experience in data analysis, big data processing, and system development through academic projects and cooperative training. Skilled in transforming raw data into actionable insights, building scalable data workflows, and applying analytical and machine learning concepts to solve real-world problems. Experienced in working with large datasets, databases, and cross-functional teams, with a strong foundation in problem-solving, data quality, and continuous learning."
+  },
+  {
+    "candidate_id": "cv2",
+    "candidate_name": "Abdulrahman Alshatri",
+    "final_score": 56.4,
+    "rules_score": 36.0,
+    "llm_score": 70.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "machine learning",
+          "python programming",
+          "r programming",
+          "data wrangling",
+          "predictive modeling",
+          "data analysis",
+          "business problem solving"
+        ],
+        "missing": [
+          "statistical analysis",
+          "data visualization",
+          "communication skills"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": false,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 70.0,
+      "rubric": {
+        "skills": 30,
+        "experience": 20,
+        "projects": 10,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "data analysis",
+        "data visualization",
+        "python programming",
+        "r programming",
+        "problem solving",
+        "decision making"
+      ],
+      "missing_skills": [
+        "statistical analysis",
+        "machine learning",
+        "data wrangling",
+        "predictive modeling",
+        "communication skills"
+      ],
+      "strengths": [
+        "Strong foundation in data analysis and visualization",
+        "Experience in building dashboards and reports",
+        "Proficient in Python and R"
+      ],
+      "concerns": [
+        "Lacks experience in statistical analysis and machine learning",
+        "Missing key skills such as predictive modeling and communication skills"
+      ],
+      "summary": "The candidate has a solid background in data analysis and visualization but lacks several critical skills required for the Data Scientist role."
+    },
+    "evidence": "Skills: powerbi, kpi tracking, dashboards, business reports, data cleaning, data transformation, exploratory data analysis, python, sql, r, airtable, n8n, zapier, research skill, team work, problem solving, decision making"
+  },
+  {
+    "candidate_id": "cv7",
+    "candidate_name": "Faisal Balkhair",
+    "final_score": 49.8,
+    "rules_score": 27.0,
+    "llm_score": 65.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "machine learning",
+          "python programming",
+          "data visualization",
+          "data analysis"
+        ],
+        "missing": [
+          "statistical analysis",
+          "r programming",
+          "data wrangling",
+          "communication skills",
+          "predictive modeling",
+          "business problem solving"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": false,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 65.0,
+      "rubric": {
+        "skills": 30,
+        "experience": 15,
+        "projects": 10,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "python programming",
+        "data analysis",
+        "machine learning",
+        "data visualization"
+      ],
+      "missing_skills": [
+        "statistical analysis",
+        "r programming",
+        "data wrangling",
+        "communication skills",
+        "predictive modeling",
+        "business problem solving"
+      ],
+      "strengths": [
+        "Strong programming skills in Python",
+        "Experience in data analysis and visualization",
+        "Knowledge of machine learning concepts"
+      ],
+      "concerns": [
+        "Lacks experience in statistical analysis and R programming",
+        "Missing key skills related to business problem solving and communication"
+      ],
+      "summary": "The candidate has a solid foundation in Python and machine learning but lacks several critical skills required for the Data Scientist role."
+    },
+    "evidence": "Skills: java, python, data analysis, visualization, sql, database management, git, vs code, pandas, pytorch, machine learning, deep learning, html, css"
+  },
+  {
+    "candidate_id": "cv9",
+    "candidate_name": "Mohamed Saad",
+    "final_score": 42.6,
+    "rules_score": 24.0,
+    "llm_score": 55.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "machine learning",
+          "python programming",
+          "data analysis"
+        ],
+        "missing": [
+          "statistical analysis",
+          "r programming",
+          "data wrangling",
+          "data visualization",
+          "communication skills",
+          "predictive modeling",
+          "business problem solving"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": false,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 55.0,
+      "rubric": {
+        "skills": 25,
+        "experience": 5,
+        "projects": 5,
+        "tools": 5,
+        "education": 5
+      },
+      "matched_skills": [
+        "python",
+        "machine learning",
+        "data analysis",
+        "predictive analysis"
+      ],
+      "missing_skills": [
+        "statistical analysis",
+        "r programming",
+        "data wrangling",
+        "data visualization",
+        "communication skills",
+        "business problem solving"
+      ],
+      "strengths": [
+        "Proficient in Python and machine learning",
+        "Strong data analysis skills",
+        "Knowledge of predictive analysis"
+      ],
+      "concerns": [
+        "Lacks several core must-have skills",
+        "Limited relevant experience",
+        "No specific projects mentioned"
+      ],
+      "summary": "The candidate has foundational skills in data science but lacks several critical must-have skills and relevant experience."
+    },
+    "evidence": "Skills: microsoft office programs, ability to deal with big data, crisis management, risk management, python, advanced google analytics, human resources management, sql, ai, machine learning, customer service, data analysis, cisco technologies, professional seller setup, analytical skills, big data, introduction to cyber security, html, computer applications, predictive analysis"
+  },
+  {
+    "candidate_id": "cv10",
+    "candidate_name": "Hanan Ibrahim ZainAldeen",
+    "final_score": 29.4,
+    "rules_score": 21.0,
+    "llm_score": 35.0,
+    "rules": {
+      "required_skills": {
+        "matched": [
+          "python programming",
+          "communication skills"
+        ],
+        "missing": [
+          "statistical analysis",
+          "machine learning",
+          "r programming",
+          "data wrangling",
+          "data visualization",
+          "predictive modeling",
+          "data analysis",
+          "business problem solving"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": false,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 35.0,
+      "rubric": {
+        "skills": 20,
+        "experience": 5,
+        "projects": 5,
+        "tools": 5,
+        "education": 0
+      },
+      "matched_skills": [
+        "python",
+        "communication",
+        "problem-solving"
+      ],
+      "missing_skills": [
+        "statistical analysis",
+        "machine learning",
+        "r programming",
+        "data wrangling",
+        "data visualization",
+        "predictive modeling",
+        "data analysis",
+        "business problem solving"
+      ],
+      "strengths": [
+        "strong communication skills",
+        "problem-solving abilities"
+      ],
+      "concerns": [
+        "lack of relevant data science skills",
+        "no experience in statistical analysis or machine learning"
+      ],
+      "summary": "The candidate has some relevant skills in Python and communication but lacks essential data science skills and experience."
+    },
+    "evidence": "Skills: application design, web design, coding, microsoft office, development, design, communication, problem-solving, creativity, time management, eye for detail, html, php, javascript, javafx, c++, sql, css, python"
+  },
+  {
+    "candidate_id": "11163645",
+    "candidate_name": "Gail L. Lugo",
+    "final_score": 15.0,
+    "rules_score": 15.0,
+    "llm_score": 15.0,
+    "rules": {
+      "required_skills": {
+        "matched": [],
+        "missing": [
+          "statistical analysis",
+          "machine learning",
+          "python programming",
+          "r programming",
+          "data wrangling",
+          "data visualization",
+          "communication skills",
+          "predictive modeling",
+          "data analysis",
+          "business problem solving"
+        ]
+      },
+      "preferred_skills": {
+        "matched": [],
+        "missing": []
+      },
+      "experience": {
+        "resume_years": null,
+        "required_years": null,
+        "match": false
+      },
+      "education": {
+        "level_match": false,
+        "field_match": false
+      },
+      "domain_knowledge": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    "llm": {
+      "fit_score": 15.0,
+      "rubric": {
+        "skills": 5,
+        "experience": 5,
+        "projects": 0,
+        "tools": 0,
+        "education": 5
+      },
+      "matched_skills": [
+        "communication skills"
+      ],
+      "missing_skills": [
+        "statistical analysis",
+        "machine learning",
+        "python programming",
+        "r programming",
+        "data wrangling",
+        "data visualization",
+        "predictive modeling",
+        "data analysis",
+        "business problem solving"
+      ],
+      "strengths": [
+        "Strong organizational skills",
+        "Effective communication",
+        "Experience in data entry and financial reporting"
+      ],
+      "concerns": [
+        "Lacks core data science skills",
+        "No relevant experience in statistical analysis or machine learning",
+        "No demonstrated experience with data wrangling or visualization"
+      ],
+      "summary": "The candidate has strong organizational and communication skills but lacks essential data science skills and relevant experience."
+    },
+    "evidence": "Performed data entry."
   }
 ]

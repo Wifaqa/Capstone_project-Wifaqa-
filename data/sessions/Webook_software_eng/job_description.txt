@@ -1,0 +1,13 @@
+Role Overview:
+We're looking for someone to start immediately so apply today and if you fit what we're looking for we'll be in touch straight away. As a Junior Software Engineer, there are multiple types of roles and teams you may be a good fit for at webook.com
+Here are some examples of roles and teams that you can have an impact on:
+• Business Analysts- Ability to understand and gather complex business needs, map out technical solutions, and help develop and manage in defined timelines
+• QA Engineering- Create and execute test cases to identify problems in mobile and web applications and recommend improvements in software to enhance the user experience
+• Backend Engineering- Design, build and maintain the server-side of web applications that lets us scale Hala Yalla to millions of users around the world
+• Mobile Engineering- Craft the Hala Yalla client experience on mobile devices by learning and applying the ins and outs of iOS and Android SDK using React Native
+• Front End Engineering- Help keep our websites up and running by building fast, scalable, and responsive Hala Yalla experiences for the modern web, using technologies like Typescript, React, and Redux
+Requirements
+: Bachetor sdege in Compite Silence, Srtwared pmen
+Engineering or related field
+• Experience writing software as part of full-time work, college/ bootcamp coursework, personal projects, internships, coding competitions or research
+• Excellent communication skills, both oral and written (English & Arabic)
