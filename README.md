@@ -44,3 +44,9 @@ Create a `.env` file and add:
 - LLM-based score weight: 60%
 - Designed as a graduation capstone project
 - Deployed using Streamlit Cloud
+
+
+
+
+## URL:
+https://capstoneproject-wifaapp-git-2ulm9dqqkc4quyprbszncs.streamlit.app
