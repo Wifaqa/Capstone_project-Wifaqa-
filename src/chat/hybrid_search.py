@@ -1,4 +1,4 @@
-# src/chat/hybrid_search.py
+
 
 import re
 import chromadb
@@ -12,7 +12,7 @@ from rank_bm25 import BM25Okapi
 def _tokenize(text: str) -> list[str]:
     if not text:
         return []
-    # tokenize بسيط: حروف/أرقام فقط
+   
     return re.findall(r"[a-z0-9]+", text.lower())
 
 
@@ -89,7 +89,7 @@ def vector_search(question: str, session_dir: Path, top_k: int = 5):
     collection = _get_collection(session_dir)
 
     res = collection.query(
-        query_texts=[question],          # يعتمد على embedding_function الموجود وقت البناء
+        query_texts=[question],          
         n_results=top_k,
         include=["documents", "metadatas", "distances"]
     )
@@ -100,12 +100,12 @@ def vector_search(question: str, session_dir: Path, top_k: int = 5):
 
     results = []
     for d, m, dist in zip(docs, metas, distances):
-        # distance أقل = أقرب عادةً (حسب index)
+     
         results.append({
             "doc": d,
             "meta": m or {},
             "id": None,
-            "score": float(-dist)  # نحولها لشي "أكبر أفضل"
+            "score": float(-dist) 
         })
 
     return results
@@ -122,7 +122,7 @@ def rrf_merge(bm25_results: list[dict], vector_results: list[dict], k: int = 60,
     fused = {}
 
     def _key(r: dict):
-        # نستخدم candidate_id + doc نص كـ مفتاح ثابت
+      
         cid = (r.get("meta") or {}).get("candidate_id", "unknown")
         doc = r.get("doc", "")
         return f"{cid}::{doc}"
@@ -150,5 +150,5 @@ def hybrid_search(question: str, session_dir: Path, top_k: int = 5):
 
     fused = rrf_merge(bm25, vec, k=60, top_k=top_k)
 
-    # نرجع نفس شكل chat_engine القديم: list of (doc, meta)
+   
     return [(x["doc"], x["meta"]) for x in fused]

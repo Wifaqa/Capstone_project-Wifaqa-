@@ -1,93 +1,5 @@
 
 
-# import json
-# import os
-# from openai import OpenAI
-# from dotenv import load_dotenv
-
-# load_dotenv()
-
-# client = OpenAI(
-#     api_key=os.getenv("OPENAI_API_KEY")
-# )
-
-# MODEL = "gpt-4o-mini"   # ⭐ ممتاز وسريع ورخيص
-
-
-# def llm_compare(job_req: dict, resume_text: str) -> dict:
-#     print("DEBUG: LLM CALLED")
-
-#     prompt = f"""
-# You are an AI recruitment evaluator.
-
-# Your task is to evaluate how well a candidate fits the given job role.
-
-# ========================
-# SCORING GUIDELINES (VERY IMPORTANT)
-# ========================
-# Use this scale STRICTLY:
-
-# - 80–100 → Strong fit, hire-ready or very close
-# - 60–79  → Good fit, junior or trainable candidate
-# - 40–59  → Partial fit, has relevant skills but notable gaps
-# - 20–39  → Weak fit, limited alignment
-# - 0–19   → Very weak fit
-
-# ========================
-# EVALUATION RULES
-# ========================
-# - Focus PRIMARILY on skills, projects, and practical experience.
-# - Do NOT overly penalize missing years of experience unless explicitly required.
-# - Do NOT overly penalize missing formal education if skills and projects compensate.
-# - A candidate with strong relevant skills and projects SHOULD score at least 60+.
-# - A candidate matching most required skills SHOULD score 70+ even if junior.
-# - Use the full range (0–100). Avoid clustering scores below 30 unless the fit is truly poor.
-
-# ========================
-# OUTPUT FORMAT (STRICT)
-# ========================
-# Return ONLY valid JSON in this format:
-
-# {{
-#   "fit_score": number,
-#   "reasoning": string
-# }}
-
-# ========================
-# JOB REQUIREMENTS
-# ========================
-# {json.dumps(job_req, indent=2)}
-
-# ========================
-# CANDIDATE PROFILE
-# ========================
-# {resume_text}
-# """
-
-#     response = client.chat.completions.create(
-#         model=MODEL,
-#         messages=[
-#             {"role": "system", "content": "You evaluate recruitment fit objectively."},
-#             {"role": "user", "content": prompt}
-#         ],
-#         temperature=0
-#     )
-
-#     content = response.choices[0].message.content.strip()
-
-#     try:
-#         result = json.loads(content)
-#         return {
-#             "fit_score": float(result.get("fit_score", 0)),
-#             "reasoning": result.get("reasoning", "")
-#         }
-#     except Exception:
-#         return {
-#             "fit_score": 0,
-#             "reasoning": "LLM response could not be parsed."
-#         }
-
-
 import json
 import os
 from openai import OpenAI
@@ -99,7 +11,7 @@ client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY")
 )
 
-MODEL = "gpt-4o-mini"  # موثوق + سريع
+MODEL = "gpt-4o-mini"  
 
 
 REASON_SYSTEM = """

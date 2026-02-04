@@ -9,6 +9,7 @@ client = OpenAI()
 EMBEDDING_MODEL = "text-embedding-3-small"
 
 
+
 def retrieve_evidence(
     session_dir: Path,
     query: str,
@@ -21,11 +22,7 @@ def retrieve_evidence(
 
     index_dir = session_dir / "index"
 
-    # chroma_client = chromadb.Client(
-    #     chromadb.config.Settings(
-    #         persist_directory=str(index_dir)
-    #     )
-    # )
+   
     chroma_client = chromadb.PersistentClient(
         path=str(index_dir)
     )

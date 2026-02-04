@@ -71,7 +71,7 @@ def calculate_fit_score(match_result: dict, jd: dict) -> dict:
     total_score = 0
     breakdown = {}
 
-    # ---------- Required skills (40%) ----------
+    # ---------- Required skills (30%) ----------
     required_skills = jd["required"].get("skills", [])
     matched_required = match_result["required_skills"]["matched"]
 
@@ -117,7 +117,7 @@ def calculate_fit_score(match_result: dict, jd: dict) -> dict:
     breakdown["education"] = score_education
     total_score += score_education
 
-    # ---------- Experience (20%) ----------
+    # ---------- Experience (30%) ----------
     score_exp = 30 if match_result["experience"]["match"] else 0
     breakdown["experience"] = score_exp
     total_score += score_exp
